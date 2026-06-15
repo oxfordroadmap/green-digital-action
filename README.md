@@ -15,3 +15,20 @@ A proof-of-concept configuration for a two-tier knowledge repository.
 
 ## Green Digital Action
 
+
+### 1. The Four PDF Baseline Files
+
+
+- **PDF 1 (L.1500):** `T-REC-L.1500-201406-I!!PDF-E.pdf`
+    _(Framework for adaptation to climate change for the ICT sector)_
+    
+- **PDF 2 (L.1501):** `T-REC-L.1501-201411-I!!PDF-E.pdf`
+    _(Best practices for how ICTs can help countries adapt to climate change)_
+    
+- **PDF 3 (L.1470):** `T-REC-L.1470-202001-I!!PDF-E.pdf`
+    _(Greenhouse gas emissions trajectories for the ICT sector compatible with the UNFCCC Paris Agreement)_
+    
+- **PDF 4 (L.1480):** `T-REC-L.1480-202212-I!!PDF-E.pdf`
+    _(Enabling the net-zero transition: Assessing how the use of ICT solutions impacts GHG emissions of other sectors)_
+    
+

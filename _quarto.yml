@@ -9,9 +9,9 @@ project:
     - "!lint_wiki.py"     # Explicitly excludes the Gemini python automation engine script
 
 website:
-  title: "LLM-wiki-quarto"
-  description: "Socio-Technical Research Hub: A human-supervised knowledge base and agentic portfolio."
-  # site-url: "https://username.github.io/repository"
+  title: "Green Digital Action"
+  description: "A human-supervised knowledge base and agentic portfolio."
+  site-url: "https://gda.sapiens.cv/"
 
   # This section generates targeted navbar styles
   navbar:
