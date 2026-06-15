@@ -11,3 +11,7 @@ A proof-of-concept configuration for a two-tier knowledge repository.
 ## Getting Started
 1. Click **Use this template** to generate a clean copy.
 2. Run quarto preview to start the local development server.
+
+
+## Green Digital Action
+
