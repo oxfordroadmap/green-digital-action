@@ -2,29 +2,31 @@
 type: entity
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[itu-t-l-1480-greening-by-digital](../sources/itu-t-l-1480-greening-by-digital.qmd)"]
-tags: [organization]
+sources:
+  - "[itu-t-l-1480-greening-by-digital](../sources/itu-t-l-1480-greening-by-digital.qmd)"
+  - "[ITU-T L.1470 (Greening Digital)](../sources/itu-t-l-1470-greening-digital.qmd)"
+tags:
+  - "organization"
 aliases:
   - "GSM Association"
   - "GSMA"
 ---
 
-
-# GSMA
-
-## Basic Information
-- Type: organization
-- Source: [ITU-T L.1480 (Greening by Digital)](../sources/itu-t-l-1480-greening-by-digital.qmd)
-
-## Description
-The GSMA is a global organization representing the interests of mobile operators worldwide. It plays a significant role in developing frameworks for sustainable digital transformation and has been acknowledged in [ITU-T L.1480](../sources/itu-t-l-1480-greening-by-digital.qmd) for its contributions to defining the "enablement effect." This concept describes how mobile communication technologies contribute to carbon emission reductions, serving as a critical reference for practitioners bridging the gap between theoretical lifecycle assessments and real-world business reporting. The GSMA actively collaborates with international bodies to advance [Climate Action](../concepts/climate-action.qmd) within the telecommunications sector.
-
 ## Related Entities
 - [French Agency for Ecological Transition](french-agency-for-ecological-transition.qmd)
 - [World Resources Institute](world-resources-institute.qmd)
+- [Global Enabling Sustainability Initiative](global-enabling-sustainability-initiative.qmd)
+- [Science Based Targets initiative](science-based-targets-initiative.qmd)
+- [International Telecommunication Union](international-telecommunication-union.qmd)
 
 ## Related Concepts
 - [Greening by Digital](../concepts/greening-by-digital.qmd)
+- [Climate Action](../concepts/climate-action.qmd)
+- [1.5°C scenario](../concepts/1-5c-scenario.qmd)
 
 ## Mentions in Source
 - "Moreover, this Recommendation builds on [ITU-T L.1440], [ITU-T L.1430] and [ITU-T L.1451] and has also considered previous work by organizations, authorities and researchers including but not limited to work by the French Agency for Ecological Transition (ADEME), GSMA, the World Resources Institute (WRI), Mission Innovation and individual researchers." — [ITU-T L.1480 (Greening by Digital)](../sources/itu-t-l-1480-greening-by-digital.qmd)
+
+> **Source: [ITU-T L.1470 (Greening Digital)](../sources/itu-t-l-1470-greening-digital.qmd)**
+> - "In order to establish an ICT sector trajectory, a collaboration was initiated between the ITU, Science Based Targets (SBT) initiative, GSM Association (GSMA) and Global Enabling Sustainability Initiative (GeSI) to develop sectoral decarbonization pathways in order to help ICT companies to set targets in line with climate science."
+> - "An ICT sector trajectory in support of the SBT initiative to help ICT companies to set 1.5°C aligned targets in line with science is the main focus of the collaboration between the SBT initiative, GSMA, GESI and ITU."

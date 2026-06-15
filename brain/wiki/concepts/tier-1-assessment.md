@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[sources/itu-t-l-1480-greening-by-digital|ITU-T L.1480 (Greening by Digital)]]"]
+sources: ["[[sources/itu-t-l-1480-greening-by-digital]]"]
 tags: [method]
 aliases:
   - "Tier 1 assessment"
@@ -29,8 +29,8 @@ Tier 1 assessment is the most rigorous and in-depth methodology level defined by
 
 ## Related Concepts
 - [[concepts/life-cycle-assessment|Life cycle assessment]]
-- [[concepts/higher-order-effects|Second-order effect]]
-- [[concepts/higher-order-effects|Higher order effects]]
+- [[concepts/second-order-effect|Second-order effect]]
+- [[concepts/second-order-effect|Higher order effects]]
 - [[concepts/recommendation-itu-t-l-1480|ITU-T L.1480]]
 
 ## Related Entities

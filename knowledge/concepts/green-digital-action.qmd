@@ -33,7 +33,7 @@ Green Digital Action is a global collaborative framework designed to align the d
 - [Digital Cooperation](digital-cooperation.qmd)
 
 ## Related Entities
-- [Green Digital Action Hub](../entities/green-digital-action-hub.qmd)
+- [Green Digital Action Hub](../entities/european-green-digital-coalition.qmd)
 - [International Telecommunication Union](../entities/international-telecommunication-union.qmd)
 - [COP30](../entities/cop30.qmd)
 

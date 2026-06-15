@@ -29,7 +29,7 @@ Life cycle assessment (LCA) is a systematic methodology for evaluating the envir
 
 ## Related Concepts
 - [[concepts/first-order-effect|First order effect]]
-- [[concepts/higher-order-effects|Second-order effect]]
+- [[concepts/second-order-effect|Second-order effect]]
 - [[concepts/recommendation-itu-t-l-1480|Recommendation ITU-T L.1480]]
 
 ## Related Entities

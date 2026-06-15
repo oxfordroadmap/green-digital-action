@@ -1,0 +1,32 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[centre-for-world-food-studies](centre-for-world-food-studies.qmd)"]
+tags: [organization]
+aliases:
+  - "Wageningen University & Research"
+  - "WUR"
+---
+
+
+# Wageningen University and Research
+
+### Basic Information
+Type: organization
+Source file: [centre-for-world-food-studies](centre-for-world-food-studies.qmd)
+
+### Description
+Wageningen University and Research (WUR) is a prominent public university located in Wageningen, Netherlands, focusing specifically on life sciences and agricultural research. It is globally recognized for its expertise in healthy food and living environments, drawing students and researchers from around the world to address challenges in agriculture, nutrition, and sustainability. The university maintains a strong collaborative network with international research institutions to bridge the gap between academic theory and practical, real-world agricultural policy. *(No source content available for this page)*
+
+### Related Entities
+- [Centre for World Food Studies](centre-for-world-food-studies.qmd)
+- [United Nations](united-nations.qmd)
+
+### Related Concepts
+- [Agriculture](../concepts/agriculture.qmd)
+- [Sustainability](../concepts/sustainability.qmd)
+- [Food Security](../concepts/food-security.qmd)
+
+### Mentions in Source
+*(No source content available for this page)*

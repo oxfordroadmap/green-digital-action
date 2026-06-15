@@ -4,7 +4,6 @@ created: 2026-06-15
 updated: 2026-06-15
 sources:
   - "[[sources/itu-t-l-1480-greening-by-digital]]"
-  - "[[sources/itu-t-l-1480-greening-by-digital|ITU-T L.1480 (Greening by Digital)]]"
 tags:
   - "method"
 aliases:

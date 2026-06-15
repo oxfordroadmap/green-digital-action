@@ -17,10 +17,10 @@ aliases:
 - Source: [[sources/news-itu-cop30_gda-hub-2025|news-itu-cop30_gda-hub-2025]]
 
 ## Description
-Anatel is the National Telecommunications Agency of Brazil, the regulatory body responsible for overseeing the country's telecommunications sector. Under the leadership of Carlos Baigorri, the organization has taken an active role in hosting the [[entities/green-digital-action-hub|Green Digital Action Hub]] in Brazil. Anatel emphasizes the importance of multilateralism and sustainability in advancing the [[entities/cop30|COP30]] action agenda through the implementation of concrete, locally integrated projects. Its regulatory framework increasingly aligns with global goals related to [[concepts/sustainable-development-goals|sustainable-development-goals]].
+Anatel is the National Telecommunications Agency of Brazil, the regulatory body responsible for overseeing the country's telecommunications sector. Under the leadership of Carlos Baigorri, the organization has taken an active role in hosting the [[entities/european-green-digital-coalition|Green Digital Action Hub]] in Brazil. Anatel emphasizes the importance of multilateralism and sustainability in advancing the [[entities/cop30|COP30]] action agenda through the implementation of concrete, locally integrated projects. Its regulatory framework increasingly aligns with global goals related to [[concepts/sustainable-development-goals|sustainable-development-goals]].
 
 ## Related Entities
-- [[entities/green-digital-action-hub|Green Digital Action Hub]]
+- [[entities/european-green-digital-coalition|Green Digital Action Hub]]
 - [[entities/cop30|COP30]]
 - [[entities/international-telecommunication-union|International Telecommunication Union]]
 

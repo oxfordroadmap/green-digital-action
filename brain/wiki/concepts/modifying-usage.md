@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[sources/itu-t-l-1480-greening-by-digital|ITU-T L.1480 (Greening by Digital)]]"]
+sources: ["[[sources/itu-t-l-1480-greening-by-digital]]"]
 tags: [term]
 aliases:
   - "Substitution"
@@ -28,7 +28,7 @@ Modifying usage refers to the implementation of an ICT solution that directly al
 - Updating digital systems to replace high-carbon manual processes with lower-carbon automated alternatives.
 
 ## Related Concepts
-- [[concepts/higher-order-effects|Second-order effect]]
+- [[concepts/second-order-effect|Second-order effect]]
 - [[concepts/reference-scenario|Reference activity]]
 
 ## Related Entities

@@ -1,0 +1,31 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[itu-t-l-1470-greening-digital](../sources/itu-t-l-1470-greening-digital.qmd)"]
+tags: [organization]
+aliases:
+  - "GeSI"
+---
+
+
+# Global Enabling Sustainability Initiative
+
+## Basic Information
+- Type: organization
+- Source: [ITU-T L.1470 (Greening Digital)](../sources/itu-t-l-1470-greening-digital.qmd)
+
+## Description
+The Global Enabling Sustainability Initiative (GeSI) is a global partnership of information and communication technology companies and organizations dedicated to sustainability. It has collaborated with the [ITU](international-telecommunication-union.qmd), [SBTi](science-based-targets-initiative.qmd), and [GSMA](gsma.qmd) to develop sectoral decarbonization pathways for the ICT sector. Its involvement ensures that the [international standards](../concepts/international-standards.qmd) reflect both industry-wide technical capabilities and environmental priorities. GeSI provides research and guidance on how digital technologies can drive the transition to a low-carbon economy.
+
+## Related Entities
+- [International Telecommunication Union](international-telecommunication-union.qmd)
+- [Science Based Targets initiative](science-based-targets-initiative.qmd)
+- [GSMA](gsma.qmd)
+
+## Related Concepts
+- [Climate Action](../concepts/climate-action.qmd)
+- [1.5°C scenario](../concepts/1.5-c-scenario.qmd)
+
+## Mentions in Source
+- "In order to establish an ICT sector trajectory, a collaboration was initiated between the ITU, Science Based Targets (SBT) initiative, GSM Association (GSMA) and Global Enabling Sustainability Initiative (GeSI) to develop sectoral decarbonization pathways in order to help ICT companies to set targets in line with climate science." — [ITU-T L.1470 (Greening Digital)](../sources/itu-t-l-1470-greening-digital.qmd)

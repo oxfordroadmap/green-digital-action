@@ -1,0 +1,37 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[[sources/itu-t-l-1470-greening-digital|ITU-T L.1470 (Greening Digital)]]"]
+tags: [theory]
+aliases:
+  - "Circular Economy in ICT"
+  - "Material Efficiency"
+---
+
+
+# Circular economy
+
+## Definition
+The circular economy is a systemic economic model designed to minimize waste and resource consumption by extending the life cycle of equipment, promoting the reuse of network and customer components, and prioritizing the production and sale of repairable goods.
+
+## Key Characteristics
+- **Lifecycle Optimization**: Focuses on extending the operational life of hardware through repair, refurbishment, and modular design.
+- **Resource Efficiency**: Aims to decouple economic activity from the consumption of finite resources.
+- **Waste Reduction**: Emphasizes the reduction of e-waste by keeping materials and components in use for as long as possible.
+- **Eco-conception**: Integrates sustainability criteria into the initial design phase of products and services.
+
+## Applications
+- **Telecommunications Infrastructure**: Reusing network equipment and components to reduce the carbon footprint of network expansion.
+- **Consumer Electronics**: Selling repairable devices to customers to extend product utility and delay disposal.
+- **Supply Chain Management**: Transitioning business models to support take-back programs and second-life equipment markets.
+
+## Related Concepts
+- [[concepts/life-cycle-assessment|Life Cycle Assessment]]
+- [[concepts/first-order-effect|First-order effect]]
+
+## Related Entities
+- [[entities/itu-t-study-group-5|ITU-T Study Group 5]]
+
+## Mentions in Source
+- "The eco-conception of product and services, the reuse of network and customer equipment, the optimization of the life cycle of customer products, including the selling of repairable products, bring a positive impact on energy consumption and GHG emissions." — [[brain/raw/ITU-T L.1470 (Greening Digital)|ITU-T L.1470 (Greening Digital)]]

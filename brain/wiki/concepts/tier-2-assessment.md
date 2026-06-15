@@ -28,8 +28,8 @@ A Tier 2 assessment is an intermediate level of methodological depth defined by 
 
 ## Related Concepts
 - [[concepts/tier-1-assessment|Tier 1 assessment]]
-- [[concepts/higher-order-effects|Second-order effect]]
-- [[concepts/higher-order-effects|Higher order effects]]
+- [[concepts/second-order-effect|Second-order effect]]
+- [[concepts/second-order-effect|Higher order effects]]
 - [[concepts/recommendation-itu-t-l-1480|ITU-T L.1480]]
 - [[concepts/greening-by-digital|Greening by Digital]]
 

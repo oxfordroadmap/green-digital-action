@@ -1,0 +1,30 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[ITU-T L.1501 (Adaptation Best Practices)](../sources/itu-t-l-1501-adaptation-best-practices.qmd)"]
+tags: [organization]
+aliases:
+  - "Centre for World Food Studies"
+  - "SOW-VU"
+---
+
+
+# Centre for World Food Studies
+
+## Basic Information
+- Type: organization
+- Source: [ITU-T L.1501 (Adaptation Best Practices)](../brain/raw/ITU-T L.1501 (Adaptation Best Practices).qmd)
+
+## Description
+The Centre for World Food Studies is an academic and research institution specializing in the development of sophisticated agricultural modeling tools. It is widely recognized for its contributions to crop simulation systems, such as [WOFOST](../concepts/WOFOST.qmd), which are designed to analyze crop growth under varying environmental conditions. By collaborating with institutions like the [Wageningen University and Research](wageningen-university-and-research.qmd), the center creates systems that support informed decision-making for agricultural producers. Its research serves as a primary example of how ICTs can be leveraged for climate change adaptation in the agricultural sector.
+
+## Related Entities
+- [Wageningen University and Research](wageningen-university-and-research.qmd)
+
+## Related Concepts
+- [WOFOST](../concepts/WOFOST.qmd)
+- [GOSSYM](../concepts/GOSSYM.qmd)
+
+## Mentions in Source
+- "An important example of the role of ICT in climate change adaptation is highlighted by the agricultural sector. Tools like WOFOST (developed by the Centre for World Food Studies along with University of Wageningen), GOSSYM (the Universities of Clemson and Mississippi and the Agriculture Department of United States) can be used to simulate the growth of food crops (field bean, maize, potato, rice ..." — [ITU-T L.1501 (Adaptation Best Practices)](../sources/itu-t-l-1501-adaptation-best-practices.qmd)

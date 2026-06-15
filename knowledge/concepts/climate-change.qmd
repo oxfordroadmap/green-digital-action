@@ -1,0 +1,36 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[itu-t-l-1500-adaptation-framework](../sources/itu-t-l-1500-adaptation-framework.qmd)"]
+tags: [term]
+aliases:
+  - "global climate change"
+---
+
+
+# climate change
+
+## Definition
+Climate change refers to any persistent change in the state of the climate over an extended period, typically decades or longer. It encompasses variations in climate due to both natural internal processes and anthropogenic activities, such as changes in the atmosphere or land use.
+
+## Key Characteristics
+- Involves long-term shifts in climatic patterns rather than short-term weather fluctuations.
+- Driven by a combination of natural variability and human-induced activities.
+- Represents a significant environmental risk requiring strategic structural and technological responses.
+- Distinguished in scientific discourse from natural climate variability based on the origin of the causal drivers.
+
+## Applications
+- Informing international policy and development frameworks to mitigate environmental risks.
+- Guiding the design of technological and structural adaptation strategies for various sectors, including ICT.
+- Serving as the foundational objective for global climate action initiatives and standard-setting.
+
+## Related Concepts
+- [Climate change adaptation](climate-change-adaptation.qmd)
+
+## Related Entities
+- [ipcc](../entities/ipcc.qmd)
+
+## Mentions in Source
+- "Climate change refers to any change in climate over time, whether due to natural variability or as a result of human activity." — [ITU-T L.1500 (Adaptation Framework)](../sources/itu-t-l-1500-adaptation-framework.qmd)
+- "The IPCC makes a distinction between climate change that is directly attributable to human activities, and climate variability that is attributable to natural causes." — [ITU-T L.1500 (Adaptation Framework)](../sources/itu-t-l-1500-adaptation-framework.qmd)

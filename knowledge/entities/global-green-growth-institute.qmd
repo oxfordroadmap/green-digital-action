@@ -16,10 +16,10 @@ aliases:
 - Source: [news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)
 
 ## Description
-The Global Green Growth Institute is an international organization dedicated to promoting green growth, defined as economic growth that is environmentally sustainable and socially inclusive. Within the [Green Digital Action Hub](green-digital-action-hub.qmd), the institute advocates for sustainable artificial intelligence. It focuses on identifying optimal pathways to minimize the environmental impact of digital innovation while achieving global [Climate Action](../concepts/climate-action.qmd) goals.
+The Global Green Growth Institute is an international organization dedicated to promoting green growth, defined as economic growth that is environmentally sustainable and socially inclusive. Within the [Green Digital Action Hub](european-green-digital-coalition.qmd), the institute advocates for sustainable artificial intelligence. It focuses on identifying optimal pathways to minimize the environmental impact of digital innovation while achieving global [Climate Action](../concepts/climate-action.qmd) goals.
 
 ## Related Entities
-- [Green Digital Action Hub](green-digital-action-hub.qmd)
+- [Green Digital Action Hub](european-green-digital-coalition.qmd)
 - [International Telecommunication Union](international-telecommunication-union.qmd)
 
 ## Related Concepts

@@ -2,38 +2,38 @@
 type: concept
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[sources/itu-t-l-1480-greening-by-digital|ITU-T L.1480 (Greening by Digital)]]"]
-tags: [term]
+sources:
+  - "[[sources/itu-t-l-1480-greening-by-digital]]"
+  - "[[sources/itu-t-l-1470-greening-digital|ITU-T L.1470 (Greening Digital)]]"
+tags:
+  - "term"
 aliases:
+  - "Environmental footprint"
+  - "Lifecycle emissions"
+  - "Greenhouse gas emissions"
   - "Environmental footprint"
   - "Lifecycle emissions"
 ---
 
-
-# First order effect
-
-## Definition
-First-order effects are the direct environmental impacts associated with the physical existence of an ICT solution, including raw material acquisition, production, usage, and end-of-life treatment. This represents the 'carbon footprint' of the technology itself, which must be subtracted from any enabled emissions reductions to determine the net environmental impact.
-
-## Key Characteristics
-- Represents the direct environmental burden of physical hardware and infrastructure.
-- Encompasses the entire lifecycle of an ICT solution: from raw material extraction through production, utilization, and disposal.
-- Includes energy consumption and transportation processes necessary to support the technology's existence.
-- Acts as a baseline for measuring the net positive impact of digital solutions in sustainability assessments.
-
-## Applications
-- Lifecycle assessment (LCA) for hardware manufacturers.
-- Carbon accounting for data centers and telecommunications networks.
-- Assessing the net environmental benefit of [[concepts/greening-by-digital|Greening by Digital]] initiatives.
-- Sustainability benchmarking in accordance with [[concepts/recommendation-itu-t-l-1480|ITU-T L.1480]].
+## Description
+First-order effects represent the direct environmental burden of physical hardware, infrastructure, and the energy consumed during the entire lifecycle of an ICT solution. As defined in [[concepts/recommendation-itu-t-l-1480|ITU-T L.1480]], these effects encompass raw material extraction, production, utilization, and disposal stages. To address these impacts, [[concepts/itu-t-l-1470|ITU-T L.1470]] provides trajectories for reducing emissions within the ICT sector to align with global carbon budgets and 1.5°C warming scenarios. These emissions are often classified into scopes (1, 2, and 3) based on organizational control and value chain impact, serving as a critical baseline for sustainability assessments. By identifying these direct impacts, organizations can better measure the net positive enablement effects of digital technologies on the broader economy.
 
 ## Related Concepts
 - [[concepts/greening-by-digital|Greening by Digital]]
 - [[concepts/recommendation-itu-t-l-1480|ITU-T L.1480]]
+- [[concepts/itu-t-l-1470|ITU-T L.1470]]
 - [[concepts/climate-action|Climate Action]]
+- [[concepts/scope-1-emission|Scope 1 emission]]
+- [[concepts/scope-2-emission|Scope 2 emission]]
+- [[concepts/scope-3-emission|Scope 3 emission]]
+- [[concepts/carbon-budget|carbon-budget]]
 
 ## Related Entities
-None.
+- [[entities/ipcc|IPCC]]
 
 ## Mentions in Source
-- "First order effect: Direct environmental effect associated with the physical existence of an ICT solution, i.e., the raw materials acquisition, production, use and end-of-life treatment stages, and generic processes supporting those including the use of energy and transportation." — [[brain/raw/ITU-T L.1480 (Greening by Digital)|ITU-T L.1480 (Greening by Digital)]]
+- "First order effect: Direct environmental effect associated with the physical existence of an ICT solution, i.e., the raw materials acquisition, production, use and end-of-life treatment stages, and generic processes supporting those including the use of energy and transportation." — [[sources/itu-t-l-1480-greening-by-digital|ITU-T L.1480 (Greening by Digital)]]
+
+> **Source: [[sources/itu-t-l-1470-greening-digital|ITU-T L.1470 (Greening Digital)]]**
+> - "Recommendation ITU-T L.1470 provides detailed trajectories of greenhouse gas (GHG) emissions for the global information and communication technology (ICT) sector and sub-sectors."
+> - "The ICT sector, although relatively small in terms of GHG emissions compared to others, is responsible for its own footprint."

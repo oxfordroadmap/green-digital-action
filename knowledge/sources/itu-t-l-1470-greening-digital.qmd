@@ -1,0 +1,49 @@
+---
+type: source
+created: 2026-06-15
+updated: 2026-06-15
+source_file: "[ITU-T L.1470 (Greening Digital).md](../brain/raw/ITU-T L.1470 (Greening Digital).md.qmd)"
+tags: [document]
+aliases: ["ITU-T L.1470", "ICT Sector GHG Trajectories Standard"]
+---
+
+# ITU-T L.1470: Greenhouse gas emissions trajectories for the ICT sector compatible with the UNFCCC Paris Agreement - Summary
+
+## Source
+- Original file: `brain/raw/ITU-T L.1470 (Greening Digital).md`
+- Ingested: 2026-06-15
+
+## Core Content
+[ITU-T L.1470](../concepts/itu-t-l-1470.qmd) is a pivotal international standard that provides a science-based framework for calculating greenhouse gas (GHG) emission trajectories for the information and communication technology (ICT) sector. Developed in coordination with the [International Telecommunication Union](../entities/international-telecommunication-union.qmd), the [Science Based Targets initiative](../entities/science-based-targets-initiative.qmd), the [gsma](../entities/gsma.qmd), and the [Global Enabling Sustainability Initiative](../entities/global-enabling-sustainability-initiative.qmd), the standard aligns ICT sector activities with the [1.5°C scenario](../concepts/1-5°c-scenario.qmd) established by the [UNFCCC](../entities/unfccc.qmd) Paris Agreement.
+
+The document establishes 2015 as the baseline year and offers projections for 2020, 2025, 2030, and 2050. It acknowledges the dual role of ICT: as a sector with a measurable [first-order-effect](../concepts/first-order-effect.qmd) and as a key enabler of decarbonization across the wider economy. By providing normative reference trajectories derived from [IPCC](../entities/ipcc.qmd) P2 scenarios and methodologies like the [Sectoral Decarbonization Approach](../concepts/sectoral-decarbonization-approach.qmd), it empowers ICT organizations to set actionable, science-based targets for [Scope 1](../concepts/scope-1-emission.qmd), [Scope 2](../concepts/scope-2-emission.qmd), and [Scope 3](../concepts/scope-3-emission.qmd) emissions.
+
+## Key Entities
+- [International Telecommunication Union](../entities/international-telecommunication-union.qmd)
+- [UNFCCC](../entities/unfccc.qmd)
+- [IPCC](../entities/ipcc.qmd)
+- [Science Based Targets initiative](../entities/science-based-targets-initiative.qmd)
+- [Global Enabling Sustainability Initiative](../entities/global-enabling-sustainability-initiative.qmd)
+- [gsma](../entities/gsma.qmd)
+- [International Energy Agency](../entities/international-energy-agency.qmd)
+- [European Telecommunications Network Operators](../entities/european-telecommunications-network-operators.qmd)
+
+## Key Concepts
+- [ITU-T L.1470](../concepts/itu-t-l-1470.qmd)
+- [first-order-effect](../concepts/first-order-effect.qmd)
+- [1.5°C scenario](../concepts/1-5°c-scenario.qmd)
+- [Scope 1 emission](../concepts/scope-1-emission.qmd)
+- [Scope 2 emission](../concepts/scope-2-emission.qmd)
+- [Scope 3 emission](../concepts/scope-3-emission.qmd)
+- [Sectoral Decarbonization Approach](../concepts/sectoral-decarbonization-approach.qmd)
+- [Power Usage Effectiveness](../concepts/power-usage-effectiveness.qmd)
+- [Circular economy](../concepts/circular-economy.qmd)
+- [Electricity budget](../concepts/electricity-budget.qmd)
+- [Absolute contraction approach](../concepts/absolute-contraction-approach.qmd)
+
+## Main Points
+- Defines standardized GHG reduction trajectories for the ICT sector to remain within the 1.5°C climate warming limit.
+- Utilizes 2015 as the baseline for performance tracking across networks, data centers, and end-user devices.
+- Introduces two distinct accounting perspectives: one focused on life-cycle emissions and the other on corporate GHG Protocol standards.
+- Emphasizes the integration of renewable energy and energy efficiency metrics, such as [Power Usage Effectiveness](../concepts/power-usage-effectiveness.qmd), to drive decarbonization.
+- Highlights the importance of the [Circular economy](../concepts/circular-economy.qmd) and value chain management (Scope 3) in reducing the industry's total environmental impact.

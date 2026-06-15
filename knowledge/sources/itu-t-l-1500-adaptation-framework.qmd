@@ -1,0 +1,41 @@
+---
+type: source
+created: 2026-06-15
+updated: 2026-06-15
+source_file: "[ITU-T L.1500 (Adaptation Framework).md](../brain/raw/ITU-T L.1500 (Adaptation Framework).md.qmd)"
+tags: [document]
+aliases: ["ITU-T L.1500", "Framework for adaptation to climate change for the ICT sector"]
+---
+
+# ITU-T L.1500: Framework for adaptation to climate change for the ICT sector - Summary
+
+## Source
+- Original file: [ITU-T L.1500 (Adaptation Framework).md](../brain/raw/ITU-T L.1500 (Adaptation Framework).md.qmd)
+- Ingested: 2026-06-15
+
+## Core Content
+Recommendation ITU-T L.1500 serves as a foundational socio-technical framework established by the [international-telecommunication-union](../entities/international-telecommunication-union.qmd) to integrate [ICT](../concepts/information-and-communication-technology.qmd) into global climate change adaptation strategies. The document acts as an umbrella for subsequent standards, addressing the dual nature of the technology sector: as a vulnerable entity requiring physical hardening against extreme weather and as a critical enabler for societal resilience.
+
+By aligning with definitions provided by the [ipcc](../entities/ipcc.qmd) and the [unfccc](../entities/unfccc.qmd), this framework outlines a strategic approach to protect [physical infrastructure](../concepts/physical-infrastructure.qmd) while promoting knowledge-based technologies. It emphasizes that [climate change adaptation](../concepts/climate-change-adaptation.qmd) is essential not only for the sustainability of telecommunications networks but also for the successful achievement of broader development goals, such as the [sustainable-development-goals](../concepts/sustainable-development-goals.qmd) initiatives, by supporting [disaster risk management](../concepts/disaster-risk-management.qmd) at local and national levels.
+
+## Key Entities
+- [International Telecommunication Union](../entities/international-telecommunication-union.qmd)
+- [international-telecommunication-union](../entities/international-telecommunication-union.qmd)
+- [ipcc](../entities/ipcc.qmd)
+- [unfccc](../entities/unfccc.qmd)
+- [ITU-T Study Group 5](../entities/itu-t-study-group-5.qmd)
+
+## Key Concepts
+- [climate change](../concepts/climate-change.qmd)
+- [climate change adaptation](../concepts/climate-change-adaptation.qmd)
+- [Information and Communication Technology](../concepts/information-and-communication-technology.qmd)
+- [Disaster risk management](../concepts/disaster-risk-management.qmd)
+- [sustainable-development-goals](../concepts/sustainable-development-goals.qmd)
+- [Physical infrastructure](../concepts/physical-infrastructure.qmd)
+
+## Main Points
+- Establishes a comprehensive framework for utilizing ICT to address the adverse effects of climate change.
+- Distinguishes between the role of technology as a tool for adaptation and the critical necessity of adapting the ICT infrastructure itself to survive environmental stressors.
+- Provides a roadmap for future technical Recommendations aimed at countries, cities, and infrastructure providers.
+- Defines adaptation as an integration of both material technology and knowledge-based planning.
+- Highlights that developing nations are at disproportionate risk, necessitating standardized frameworks to bolster infrastructure resilience against climate-related disasters.

@@ -33,7 +33,7 @@ The Digital Decarbonization Plan to Accelerate Solutions (PAS) is a strategic fr
 
 ## Related Entities
 - [[entities/cop30|COP30]]
-- [[entities/green-digital-action-hub|Green Digital Action Hub]]
+- [[entities/european-green-digital-coalition|Green Digital Action Hub]]
 - [[entities/international-telecommunication-union|International Telecommunication Union]]
 
 ## Mentions in Source

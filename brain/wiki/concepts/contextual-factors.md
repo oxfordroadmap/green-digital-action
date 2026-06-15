@@ -23,14 +23,14 @@ Contextual factors encompass the external conditions—such as policy environmen
 
 ## Applications
 - Serving as a mandatory scoping step during the assessment of ICT solutions.
-- Establishing the baseline for analyzing [[concepts/higher-order-effects|Second-order effect]] and higher-order environmental impacts.
+- Establishing the baseline for analyzing [[concepts/second-order-effect|Second-order effect]] and higher-order environmental impacts.
 - Determining the efficacy of digital-enabled sustainability strategies within specific sectors.
 
 ## Related Concepts
 - [[concepts/consequence-tree|Consequence tree]]
 - [[concepts/reference-scenario|Reference scenario]]
-- [[concepts/higher-order-effects|Second-order effect]]
-- [[concepts/higher-order-effects|Higher-order effects]]
+- [[concepts/second-order-effect|Second-order effect]]
+- [[concepts/second-order-effect|Higher-order effects]]
 - [[concepts/greening-by-digital|Greening by Digital]]
 
 ## Related Entities

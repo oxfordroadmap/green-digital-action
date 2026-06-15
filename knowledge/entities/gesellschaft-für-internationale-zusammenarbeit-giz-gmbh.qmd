@@ -17,10 +17,10 @@ aliases:
 - Source: [news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)
 
 ## Description
-Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH is a German development agency that operates globally to implement sustainable development projects. As a key partner in the [Green Digital Action Hub](green-digital-action-hub.qmd), GIZ focuses on bridging climate and digital agendas to achieve climate justice. The organization provides scalable digital climate solutions and works to integrate global strategy with country-level implementation. Its efforts align with broader international objectives, including the pursuit of the [Sustainable Development Goals](../concepts/sustainable-development-goals.qmd).
+Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH is a German development agency that operates globally to implement sustainable development projects. As a key partner in the [Green Digital Action Hub](european-green-digital-coalition.qmd), GIZ focuses on bridging climate and digital agendas to achieve climate justice. The organization provides scalable digital climate solutions and works to integrate global strategy with country-level implementation. Its efforts align with broader international objectives, including the pursuit of the [Sustainable Development Goals](../concepts/sustainable-development-goals.qmd).
 
 ## Related Entities
-- [Green Digital Action Hub](green-digital-action-hub.qmd)
+- [Green Digital Action Hub](european-green-digital-coalition.qmd)
 - [International Telecommunication Union](international-telecommunication-union.qmd)
 
 ## Related Concepts

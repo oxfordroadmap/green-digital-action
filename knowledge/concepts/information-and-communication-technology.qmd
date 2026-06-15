@@ -1,0 +1,51 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources:
+tags: [technology]
+aliases:
+  - "Information and Communication Technology"
+  - "ICT"
+  - "Information and Communication Technologies"
+  - "iccd-policies"
+  - "ICCD"
+  - "Climate Change and Development Policies"
+  - "ICCD Policies"
+  - "ICT, Climate Change and Development Policies"
+---
+
+
+# Information and Communication Technology
+
+## Definition
+Information and Communication Technology (ICT) refers to the technologies that provide access to information through telecommunications, encompassing hardware, services, and digital networks. It serves as both a sector vulnerable to climate-related impacts and a critical enabler for other sectors to adapt to and mitigate climate change. This includes the development of policy frameworks, such as ICT, Climate Change and Development (ICCD) policies, which integrate digital technologies into national climate resilience and development strategies.
+
+## Key Characteristics
+- Encompasses a wide range of hardware, software, services, and digital infrastructure.
+- Functions as a tool for digital transformation across various societal sectors.
+- Recognized as a vital component for enhancing organizational and societal resilience to climate change.
+- Represents a dual-role entity: a vulnerable sector requiring adaptation and an enabler of adaptation solutions for others.
+- Facilitates e-Mitigation by utilizing technology to reduce greenhouse gas emissions.
+- Enables e-Monitoring through technology-driven systems to track climate impacts and environmental indicators.
+- Supports developmental alignment to ensure digital interventions promote socio-economic growth and sustainable development.
+
+## Applications
+- Integration into climate change adaptation strategies to enhance societal resilience, including government-led national adaptation planning.
+- Implementation of digital solutions to mitigate environmental footprints across various industrial sectors.
+- Use as a prerequisite for data-driven monitoring and response in climate-related disaster management and Disaster Risk Reduction (DRR) frameworks.
+- Aligning sectoral development plans with international climate targets and resource-efficient infrastructure initiatives.
+
+## Related Concepts
+- [Climate change adaptation](climate-change-adaptation.qmd)
+- [e-Adaptation](e-adaptation.qmd)
+- [Greening by Digital](greening-by-digital.qmd)
+- [Green Digital Action](green-digital-action.qmd)
+
+## Related Entities
+- [Centre for Development Informatics](../entities/centre-for-development-informatics.qmd)
+
+## Mentions in Source
+- "Information and communication technologies (ICTs) deliver innovative products and services which are transforming the way human societies live." — [ITU-T L.1500 (Adaptation Framework)](../sources/itu-t-l-1500-adaptation-framework.qmd)
+- "ICT is a prerequisite for successful adaptation to climate change." — [ITU-T L.1500 (Adaptation Framework)](../sources/itu-t-l-1500-adaptation-framework.qmd)
+- "In order to incorporate ICT into climate change adaptation responses and monitoring, (within specific development contexts) policies referred to as ICTs, Climate Change and Development Policies (ICCD) can be developed." — [ITU-T L.1501 (Adaptation Best Practices)](../sources/itu-t-l-1501-adaptation-best-practices.qmd)

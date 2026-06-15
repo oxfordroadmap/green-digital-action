@@ -27,9 +27,9 @@ The financial effects assessment is a methodological framework designed to quant
 - Supporting net-zero transition planning by accounting for the indirect carbon emissions resulting from economic gains.
 
 ## Related Concepts
-- [Rebound effect](higher-order-effects.qmd)
-- [Higher order effects](higher-order-effects.qmd)
-- [Net second order effect](higher-order-effects.qmd)
+- [Rebound effect](second-order-effect.qmd)
+- [Higher order effects](second-order-effect.qmd)
+- [Net second order effect](second-order-effect.qmd)
 - [Consequence tree](consequence-tree.qmd)
 - [Consequential life cycle assessment](consequential-life-cycle-assessment.qmd)
 

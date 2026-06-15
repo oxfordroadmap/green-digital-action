@@ -1,0 +1,35 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources:
+  - "[itu-t-l-1501-adaptation-best-practices](../sources/itu-t-l-1501-adaptation-best-practices.qmd)"
+  - "[ITU-T L.1501 (Adaptation Best Practices)](../sources/ITU-T L.1501 (Adaptation Best Practices).qmd)"
+tags:
+  - "method"
+aliases:
+  - "ICT-enabled adaptation"
+  - "e-Adaptation"
+  - "e-Resilience"
+  - "ICT-enabled adaptation"
+  - "e-Adaptation"
+---
+
+## Description
+e-Adaptation utilizes Information and Communication Technologies (ICTs) to enhance systemic resilience, often serving as a foundational element in achieving sustainable development goals under conditions of climate instability. By integrating data collection tools like Geographic Information Systems (GIS) and remote sensing, the framework enables early warning systems that provide critical alerts for hazards. It leverages mobile platforms to disseminate actionable information to stakeholders in vulnerable or remote regions, thereby increasing the efficiency of government-led adaptation initiatives. Furthermore, e-Adaptation is closely linked to the concept of e-Resilience, providing a structured approach for systems to recover from or adapt to climate-related shocks through data-driven management.
+
+## Related Concepts
+- [Climate change adaptation](climate-change-adaptation.qmd)
+- [Green Digital Action](green-digital-action.qmd)
+- [Greening by Digital](greening-by-digital.qmd)
+- [Sustainable Development Goals](sustainable-development-goals.qmd)
+
+## Related Entities
+- [Centre for Development Informatics](../entities/centre-for-development-informatics.qmd)
+
+## Mentions in Source
+- "e-Adaptation: e-Adaptation is the application of digital technologies and information systems to facilitate, improve, and manage climate change adaptation strategies." — [ITU-T L.1501 (Adaptation Best Practices)](../sources/itu-t-l-1501-adaptation-best-practices.qmd)
+
+> **Source: [ITU-T L.1501 (Adaptation Best Practices)](../sources/itu-t-l-1501-adaptation-best-practices.qmd)**
+> - "A conceptual framework that examines the capacity of systems to recover from or adapt to climate-related disturbances through the use of information and communication technologies. It is often linked to the broader objective of achieving sustainable development in the face of climate instability."
+> - "Ospina. A.V., Heeks. R., Linking ICTs and Climate Change Adaptation: A Conceptual Framework for e-Resilience and e-Adaptation, Centre for Informatics, University of Manchester."

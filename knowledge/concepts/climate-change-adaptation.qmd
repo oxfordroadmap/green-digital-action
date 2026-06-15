@@ -1,0 +1,31 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources:
+  - "[itu-t-l-1501-adaptation-best-practices](../sources/itu-t-l-1501-adaptation-best-practices.qmd)"
+  - "[ITU-T L.1500 (Adaptation Framework)](../sources/ITU-T L.1500 (Adaptation Framework).qmd)"
+tags:
+  - "theory"
+aliases:
+  - "Adaptation to climate change"
+  - "Climate adaptation"
+---
+
+## Related Concepts
+- [Greening-by-Digital](greening-by-digital.qmd)
+- [Climate Action](climate-action.qmd)
+- [Climate Change](climate-change.qmd)
+
+## Related Entities
+- [Cancun Adaptation Framework](../entities/cancun-adaptation-framework.qmd)
+- [IPCC](../entities/ipcc.qmd)
+- [UNFCCC](../entities/unfccc.qmd)
+
+## Mentions in Source
+> **Source: [ITU-T L.1501 (Adaptation Best Practices)](../sources/itu-t-l-1501-adaptation-best-practices.qmd)**
+> - "Adaptation to climate change can be defined as the adjustment in ecological, social or economic systems in response to actual or expected climatic stimuli and their effects."
+
+> **Source: [ITU-T L.1500 (Adaptation Framework)](../sources/itu-t-l-1500-adaptation-framework.qmd)**
+> - "Adaptation to climate change can be defined as the adjustment in ecological, social or economic systems in response to actual or expected climatic stimuli and their effects."
+> - "It refers to changes in processes, practices and structures to moderate potential harm or benefit from opportunities associated with climate change."

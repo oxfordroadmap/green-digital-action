@@ -29,7 +29,7 @@ Avoided emissions refer to the reduction of greenhouse gas (GHG) emissions that 
 - [[concepts/greening-by-digital|Greening by Digital]]
 - [[concepts/reference-scenario|Reference scenario]]
 - [[concepts/first-order-effect|First-order effect]]
-- [[concepts/higher-order-effects|Second-order effect]]
+- [[concepts/second-order-effect|Second-order effect]]
 
 ## Related Entities
 - [[entities/world-resources-institute|World Resources Institute]]

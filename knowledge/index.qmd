@@ -6,6 +6,16 @@
 
 ## Entities
 
+- [wageningen-university-and-research](entities/wageningen-university-and-research.qmd) `aliases: Wageningen University & Research, WUR` - type: entity
+- [centre-for-world-food-studies](entities/centre-for-world-food-studies.qmd) `aliases: Centre for World Food Studies, SOW-VU` - type: entity
+- [centre-for-development-informatics](entities/centre-for-development-informatics.qmd) `aliases: CDI, University of Manchester Centre for Development Informatics` - type: entity
+- [cancun-adaptation-framework](entities/cancun-adaptation-framework.qmd) `aliases: CAF, Cancun Adaptation Framework` - type: entity
+- [european-telecommunications-network-operators](entities/european-telecommunications-network-operators.qmd) `aliases: ETNO` - type: entity
+- [international-energy-agency](entities/international-energy-agency.qmd) `aliases: IEA` - type: entity
+- [global-enabling-sustainability-initiative](entities/global-enabling-sustainability-initiative.qmd) `aliases: GeSI` - type: entity
+- [science-based-targets-initiative](entities/science-based-targets-initiative.qmd) `aliases: SBTi, SBT initiative` - type: entity
+- [ipcc](entities/ipcc.qmd) `aliases: Intergovernmental Panel on Climate Change, IPCC` - type: entity
+- [unfccc](entities/unfccc.qmd) `aliases: United Nations Framework Convention on Climate Change, UN Framework Convention on Climate Change` - type: entity
 - [itu-t-study-group-5](entities/itu-t-study-group-5.qmd) `aliases: Study Group 5, SG5` - type: entity
 - [united-nations](entities/united-nations.qmd) `aliases: UN, United Nations` - type: entity
 - [mission-innovation](entities/mission-innovation.qmd) `aliases: MI` - type: entity
@@ -13,13 +23,12 @@
 - [gsma](entities/gsma.qmd) `aliases: GSM Association, GSMA` - type: entity
 - [french-agency-for-ecological-transition](entities/french-agency-for-ecological-transition.qmd) `aliases: ADEME, French Agency for Ecological Transition` - type: entity
 - [anatel](entities/anatel.qmd) `aliases: Agência Nacional de Telecomunicações, National Telecommunications Agency of Brazil` - type: entity
-- [european-green-digital-coalition](entities/european-green-digital-coalition.qmd) `aliases: EGDC` - type: entity
+- [european-green-digital-coalition](entities/european-green-digital-coalition.qmd) `aliases: European Green Digital Coalition, EGDC, green-digital-action-hub, GDA Hub, Green Digital Action Hub` - type: entity
 - [world-bank-group](entities/world-bank-group.qmd) `aliases: World Bank, WBG` - type: entity
 - [coalition-for-digital-environmental-sustainability](entities/coalition-for-digital-environmental-sustainability.qmd) `aliases: CODES, Coalition for Digital Environmental Sustainability` - type: entity
 - [gesellschaft-für-internationale-zusammenarbeit-giz-gmbh](entities/gesellschaft-für-internationale-zusammenarbeit-giz-gmbh.qmd) `aliases: GIZ, German Agency for International Cooperation` - type: entity
 - [united-nations-institute-for-training-and-research](entities/united-nations-institute-for-training-and-research.qmd) `aliases: UNITAR` - type: entity
 - [global-green-growth-institute](entities/global-green-growth-institute.qmd) `aliases: GGGI` - type: entity
-- [green-digital-action-hub](entities/green-digital-action-hub.qmd) `aliases: GDA Hub, Green Digital Action Hub` - type: entity
 - [cop30](entities/cop30.qmd) `aliases: 30th UN Climate Change Conference, COP 30` - type: entity
 - [international-telecommunication-union](entities/international-telecommunication-union.qmd) `aliases: ITU, International Telecommunication Union, ITU-T, ITU, International Telecommunication Union` - type: entity
 - [world-summit-on-the-information-society](entities/world-summit-on-the-information-society.qmd) `aliases: WSIS, World Summit on the Information Society` - type: entity
@@ -28,7 +37,31 @@
 
 ## Concepts
 
-- [second-order-effect](concepts/second-order-effect.qmd) - (empty)
+- [carbon-footprint](concepts/carbon-footprint.qmd) `aliases: CO2 footprint, carbon emissions` - type: concept
+- [carbon-budget](concepts/carbon-budget.qmd) `aliases: Carbon Quota, CO2 Budget` - type: concept
+- [higher-order-effects](concepts/higher-order-effects.qmd) - (empty)
+- [1-5c-scenario](concepts/1-5c-scenario.qmd) - A 1.5C-scenario refers to a climate mitigation trajectory or pathway that limits the rise in global 
+- [bioaccumulation](concepts/bioaccumulation.qmd) `aliases: Bio-accumulation` - type: concept
+- [physical-infrastructure](concepts/physical-infrastructure.qmd) `aliases: ICT infrastructure, outside plant` - type: concept
+- [disaster-risk-management](concepts/disaster-risk-management.qmd) `aliases: DRM, Disaster Risk Management` - type: concept
+- [information-and-communication-technology](concepts/information-and-communication-technology.qmd) `aliases: Information and Communication Technology, ICT, Information and Communication Technologies, iccd-policies, ICCD, Climate Change and Development Policies, ICCD Policies, ICT, Climate Change and Development Policies` - type: concept
+- [climate-change](concepts/climate-change.qmd) `aliases: global climate change` - type: concept
+- [biomagnification](concepts/biomagnification.qmd) `aliases: Biomagnification, Biological Magnification` - type: concept
+- [gossym](concepts/gossym.qmd) `aliases: GOSSYM, Cotton Simulation Model, global-observation-system, GOS, Global Observation System` - type: concept
+- [wofost](concepts/wofost.qmd) `aliases: WOFOST, World Food Studies Simulation` - type: concept
+- [e-adaptation](concepts/e-adaptation.qmd) `aliases: ICT-enabled adaptation, e-Adaptation, e-Resilience, ICT-enabled adaptation, e-Adaptation` - type: concept
+- [climate-change-adaptation](concepts/climate-change-adaptation.qmd) `aliases: Adaptation to climate change, Climate adaptation` - type: concept
+- [absolute-contraction-approach](concepts/absolute-contraction-approach.qmd) `aliases: Absolute contraction, Absolute reduction approach` - type: concept
+- [electricity-budget](concepts/electricity-budget.qmd) `aliases: Electricity budget, ICT electricity allocation` - type: concept
+- [circular-economy](concepts/circular-economy.qmd) `aliases: Circular Economy in ICT, Material Efficiency` - type: concept
+- [power-usage-effectiveness](concepts/power-usage-effectiveness.qmd) `aliases: PUE, Power Usage Effectiveness` - type: concept
+- [sectoral-decarbonization-approach](concepts/sectoral-decarbonization-approach.qmd) `aliases: SDA, Sectoral Decarbonization Approach` - type: concept
+- [scope-3-emission](concepts/scope-3-emission.qmd) `aliases: Value chain emissions, Scope 3` - type: concept
+- [scope-2-emission](concepts/scope-2-emission.qmd) `aliases: Indirect emissions from purchased energy, Purchased energy emissions` - type: concept
+- [scope-1-emission](concepts/scope-1-emission.qmd) `aliases: Direct emissions` - type: concept
+- [1-5°c-scenario](concepts/1-5°c-scenario.qmd) `aliases: 1.5°C trajectory, 1.5°C objective` - type: concept
+- [itu-t-l-1470](concepts/itu-t-l-1470.qmd) `aliases: Recommendation ITU-T L.1470, ICT Sector GHG Trajectories Standard` - type: concept
+- [second-order-effect](concepts/second-order-effect.qmd) `aliases: higher-order-effects, Higher order effects, Indirect effects, Indirect impact, Second-order effect, ICT indirect impact, Rebound effect, Induction, rebound effect, induction, third-order effects, indirect effects, systemic environmental effects` - created: 2026-06-15
 - [financial-effects-assessment](concepts/financial-effects-assessment.qmd) `aliases: Assessment of financial gains, Carbon impact of financial gains` - type: concept
 - [contextual-factors](concepts/contextual-factors.qmd) `aliases: Structural conditions, Incentives and obstacles` - type: concept
 - [consequence-tree](concepts/consequence-tree.qmd) `aliases: Effect mapping` - type: concept
@@ -40,15 +73,14 @@
 - [reference-scenario](concepts/reference-scenario.qmd) `aliases: Baseline scenario, Reference activity, Baseline scenario` - type: concept
 - [consequential-life-cycle-assessment](concepts/consequential-life-cycle-assessment.qmd) `aliases: Consequential LCA, CLCA` - type: concept
 - [life-cycle-assessment](concepts/life-cycle-assessment.qmd) `aliases: LCA, Life Cycle Assessment` - type: concept
-- [higher-order-effects](concepts/higher-order-effects.qmd) `aliases: Higher order effects, Indirect effects, second-order-effect, Indirect impact, Second-order effect, ICT indirect impact, Rebound effect, Induction, rebound effect, induction, third-order effects` - type: concept
-- [first-order-effect](concepts/first-order-effect.qmd) `aliases: Environmental footprint, Lifecycle emissions` - type: concept
+- [first-order-effect](concepts/first-order-effect.qmd) `aliases: Environmental footprint, Lifecycle emissions, Greenhouse gas emissions, Environmental footprint, Lifecycle emissions` - type: concept
 - [recommendation-itu-t-l-1480](concepts/recommendation-itu-t-l-1480.qmd) `aliases: ITU-T L.1480, Methodology for assessing the impact of ICT on GHG emissions` - type: concept
-- [greening-by-digital](concepts/greening-by-digital.qmd) `aliases: Digital-enabled sustainability, Greening by Digital, Net Enablement Effect, Digital-enabled sustainability, Greening by Digital, Net second order effect, Digital-enabled sustainability, Greening by Digital, Net Enablement Effect, Digital-enabled sustainability, Greening by Digital` - type: concept
+- [greening-by-digital](concepts/greening-by-digital.qmd) `aliases: Digital-enabled sustainability, Greening by Digital, Net Enablement Effect, Digital-enabled sustainability, Greening by Digital, Net second order effect, Digital-enabled sustainability, Greening by Digital, Net Enablement Effect, Digital-enabled sustainability, Greening by Digital, Green-by-Digital, Digital-enabled sustainability, Greening by Digital, Net Enablement Effect, Digital-enabled sustainability, Greening by Digital, Net second order effect, Digital-enabled sustainability, Greening by Digital, Net Enablement Effect, Digital-enabled sustainability, Greening by Digital` - type: concept
 - [digital-decarbonization-plan-to-accelerate-solutions](concepts/digital-decarbonization-plan-to-accelerate-solutions.qmd) `aliases: PAS, Digital Decarbonization Plan` - type: concept
 - [climate-action](concepts/climate-action.qmd) `aliases: Climate Action, Global Climate Action` - type: concept
 - [green-digital-action](concepts/green-digital-action.qmd) `aliases: GDA, Green Digital Action Framework` - type: concept
 - [digital-cooperation](concepts/digital-cooperation.qmd) `aliases: Digital collaboration` - type: concept
-- [sustainable-development-goals](concepts/sustainable-development-goals.qmd) `aliases: SDGs, Sustainable Development, SDGs` - type: concept
+- [sustainable-development-goals](concepts/sustainable-development-goals.qmd) `aliases: SDGs, Sustainable Development, SDGs, Millennium Development Goal, SDGs, Sustainable Development, SDGs` - type: concept
 - [data-governance](concepts/data-governance.qmd) `aliases: Data Management` - type: concept
 - [interoperability](concepts/interoperability.qmd) `aliases: System Interoperability, Tech Interoperability` - type: concept
 - [responsible-ai](concepts/responsible-ai.qmd) `aliases: RAI` - type: concept
@@ -57,6 +89,9 @@
 
 ## Sources
 
+- [itu-t-l-1500-adaptation-framework](sources/itu-t-l-1500-adaptation-framework.qmd) `aliases: ITU-T L.1500, Framework for adaptation to climate change for the ICT sector`
+- [itu-t-l-1501-adaptation-best-practices](sources/itu-t-l-1501-adaptation-best-practices.qmd) `aliases: ITU-T L.1501, Best practices for how ICTs can help countries adapt to the effects of climate change`
+- [itu-t-l-1470-greening-digital](sources/itu-t-l-1470-greening-digital.qmd) `aliases: ITU-T L.1470, ICT Sector GHG Trajectories Standard`
 - [itu-t-l-1480-greening-by-digital](sources/itu-t-l-1480-greening-by-digital.qmd) `aliases: ITU-T L.1480, Enabling the net-zero transition`
 - [news-itu-cop30_gda-hub-2025](sources/news-itu-cop30_gda-hub-2025.qmd) `aliases: GDA Hub COP30 Launch, ITU Green Digital Action Hub Announcement`
 - [statement-gdc-wsc_march-2024](sources/statement-gdc-wsc_march-2024.qmd) `aliases: WSC Statement on the Global Digital Compact, March 2024 WSC Statement`

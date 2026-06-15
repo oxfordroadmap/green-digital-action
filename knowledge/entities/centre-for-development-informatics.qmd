@@ -1,0 +1,30 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[itu-t-l-1501-adaptation-best-practices](../sources/itu-t-l-1501-adaptation-best-practices.qmd)"]
+tags: [organization]
+aliases:
+  - "CDI"
+  - "University of Manchester Centre for Development Informatics"
+---
+
+
+# Centre for Development Informatics
+
+## Basic Information
+- Type: organization
+- Source: [ITU-T L.1501 (Adaptation Best Practices)](../sources/itu-t-l-1501-adaptation-best-practices.qmd)
+
+## Description
+The Centre for Development Informatics is an academic research center based at the University of Manchester. It is widely recognized for its scholarly contributions regarding the role of information and communication technologies (ICTs) in international development. The center provides essential conceptual frameworks and policy guidance, particularly focusing on the intersection of [ICTs](../concepts/greening-by-digital.qmd) and climate change adaptation in developing countries. Its research outputs and publications are cited extensively within [ITU-T L.1501](../sources/itu-t-l-1501-adaptation-best-practices.qmd) as a primary methodological resource for practitioners and policymakers.
+
+## Related Entities
+None.
+
+## Related Concepts
+- [e-adaptation](../concepts/e-adaptation.qmd)
+- [ICCD Policies](../concepts/information-and-communication-technology.qmd)
+
+## Mentions in Source
+- "The ICT applications or tools used for the purpose of climate change adaptation should be developed with a holistic and integrated view of adaptive processes. This could incorporate mobile phones, internet application and mass media to foster adaptation at community, sectoral, national level and international levels [b-CDI 2012]." — [ITU-T L.1501 (Adaptation Best Practices)](../sources/itu-t-l-1501-adaptation-best-practices.qmd)

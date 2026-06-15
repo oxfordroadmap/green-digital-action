@@ -17,10 +17,10 @@ aliases:
 - Source: [news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)
 
 ## Description
-COP30 is the 30th UN Climate Change Conference held in Brazil, serving as a significant milestone for international climate negotiations. The event acts as a platform for launching collaborative initiatives, such as the [Green Digital Action Hub](green-digital-action-hub.qmd), which aims to leverage technology against climate change. The conference emphasizes collective action, locally referred to as 'mutirão', and promotes the integration of digital strategies into national climate pledges. By anchoring these legacy projects in Brazil, COP30 highlights the role of [Digital Cooperation](../concepts/digital-cooperation.qmd) in meeting global environmental targets.
+COP30 is the 30th UN Climate Change Conference held in Brazil, serving as a significant milestone for international climate negotiations. The event acts as a platform for launching collaborative initiatives, such as the [Green Digital Action Hub](european-green-digital-coalition.qmd), which aims to leverage technology against climate change. The conference emphasizes collective action, locally referred to as 'mutirão', and promotes the integration of digital strategies into national climate pledges. By anchoring these legacy projects in Brazil, COP30 highlights the role of [Digital Cooperation](../concepts/digital-cooperation.qmd) in meeting global environmental targets.
 
 ## Related Entities
-- [Green Digital Action Hub](green-digital-action-hub.qmd)
+- [Green Digital Action Hub](european-green-digital-coalition.qmd)
 - [International Telecommunication Union](international-telecommunication-union.qmd)
 
 ## Related Concepts

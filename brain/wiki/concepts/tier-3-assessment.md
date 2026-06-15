@@ -31,8 +31,8 @@ A Tier 3 assessment is the entry-level methodological approach defined by the [[
 - [[concepts/tier-1-assessment|Tier 1 assessment]]
 - [[concepts/tier-2-assessment|Tier 2 assessment]]
 - [[concepts/recommendation-itu-t-l-1480|ITU-T L.1480]]
-- [[concepts/higher-order-effects|Second-order effect]]
-- [[concepts/higher-order-effects|Higher-order effects]]
+- [[concepts/second-order-effect|Second-order effect]]
+- [[concepts/second-order-effect|Higher-order effects]]
 
 ## Related Entities
 None.

@@ -27,8 +27,8 @@ The consequence tree is a systematic analytical tool used to identify and struct
 
 ## Related Concepts
 - [First order effect](first-order-effect.qmd)
-- [Second-order effect](higher-order-effects.qmd)
-- [Higher order effects](higher-order-effects.qmd)
+- [Second-order effect](second-order-effect.qmd)
+- [Higher order effects](second-order-effect.qmd)
 - [Consequential LCA](consequential-life-cycle-assessment.qmd)
 - [ITU-T L.1480](recommendation-itu-t-l-1480.qmd)
 - [Greening by Digital](greening-by-digital.qmd)

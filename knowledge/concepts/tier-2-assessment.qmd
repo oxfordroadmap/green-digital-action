@@ -28,8 +28,8 @@ A Tier 2 assessment is an intermediate level of methodological depth defined by 
 
 ## Related Concepts
 - [Tier 1 assessment](tier-1-assessment.qmd)
-- [Second-order effect](higher-order-effects.qmd)
-- [Higher order effects](higher-order-effects.qmd)
+- [Second-order effect](second-order-effect.qmd)
+- [Higher order effects](second-order-effect.qmd)
 - [ITU-T L.1480](recommendation-itu-t-l-1480.qmd)
 - [Greening by Digital](greening-by-digital.qmd)
 

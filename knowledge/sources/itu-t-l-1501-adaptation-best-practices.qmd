@@ -1,0 +1,43 @@
+---
+type: source
+created: 2026-06-15
+updated: 2026-06-15
+source_file: "[ITU-T L.1501 (Adaptation Best Practices).md](../brain/raw/ITU-T L.1501 (Adaptation Best Practices).md.qmd)"
+tags: [document]
+aliases: ["ITU-T L.1501", "Best practices for how ICTs can help countries adapt to the effects of climate change"]
+---
+
+# ITU-T L.1501: Best practices for how ICTs can help countries adapt to the effects of climate change - Summary
+
+## Source
+- Original file: [ITU-T L.1501 (Adaptation Best Practices).md](../brain/raw/ITU-T L.1501 (Adaptation Best Practices).md.qmd)
+- Ingested: 2026-06-15
+
+## Core Content
+Recommendation [international-telecommunication-union](../entities/international-telecommunication-union.qmd) L.1501 provides a comprehensive framework and checklist for countries to integrate Information and Communication Technologies (ICTs) into their national climate change adaptation strategies. The document addresses the complexity of climate change, highlighting the necessity for both mitigation and adaptation, with a specific focus on how ICTs can act as a force multiplier in information gathering, decision-making, and implementation. It details a multi-level approach encompassing local, sectoral, and national implementation, emphasizing the importance of stakeholder coordination and informed decision-making. By leveraging technologies such as the [Global Observation System](../concepts/gossym.qmd), countries can enhance resilience in critical sectors like agriculture, water management, and public health. The Recommendation also emphasizes the role of institutional capacity building, horizontal and vertical policy coherence, and continuous monitoring to ensure sustainable [climate change adaptation](../concepts/climate-change-adaptation.qmd).
+
+## Key Entities
+- [International Telecommunication Union](../entities/international-telecommunication-union.qmd)
+- [international-telecommunication-union](../entities/international-telecommunication-union.qmd)
+- [Cancun Adaptation Framework](../entities/cancun-adaptation-framework.qmd)
+- [Centre for Development Informatics](../entities/centre-for-development-informatics.qmd)
+- [ipcc](../entities/ipcc.qmd)
+- [Centre for World Food Studies](../entities/centre-for-world-food-studies.qmd)
+
+## Key Concepts
+- [climate change adaptation](../concepts/climate-change-adaptation.qmd)
+- [greening-by-digital](../concepts/greening-by-digital.qmd)
+- [e-Adaptation](../concepts/e-adaptation.qmd)
+- [ICCD Policies](../concepts/information-and-communication-technology.qmd)
+- [e-adaptation](../concepts/e-adaptation.qmd)
+- [Global Observation System](../concepts/gossym.qmd)
+- [WOFOST](../concepts/wofost.qmd)
+- [GOSSYM](../concepts/gossym.qmd)
+- [Biomagnification](../concepts/biomagnification.qmd)
+
+## Main Points
+- ICTs serve as a crucial force multiplier in climate change adaptation by improving information gathering, decision-making, and implementation.
+- A multi-level framework (community, sectoral, national) is necessary for integrating ICTs into effective national adaptation plans.
+- The [Cancun Adaptation Framework](../entities/cancun-adaptation-framework.qmd) provides the international basis for developing National Adaptation Plans (NAPs).
+- Effective adaptation strategies require both horizontal coherence (aligning resources, skills, and tools) and vertical coherence (consistency across sub-regional and international policies).
+- Checklists and indicator-based assessments are essential tools for policymakers to track progress and identify vulnerabilities in climate change response.

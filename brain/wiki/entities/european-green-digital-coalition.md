@@ -2,10 +2,14 @@
 type: entity
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[sources/news-itu-cop30_gda-hub-2025]]"]
+sources:
 tags: [organization]
 aliases:
+  - "European Green Digital Coalition"
   - "EGDC"
+  - "green-digital-action-hub"
+  - "GDA Hub"
+  - "Green Digital Action Hub"
 ---
 
 
@@ -16,11 +20,11 @@ aliases:
 - Source: [[sources/news-itu-cop30_gda-hub-2025|news-itu-cop30_gda-hub-2025]]
 
 ## Description
-The European Green Digital Coalition is a multi-stakeholder group aimed at accelerating the deployment of green digital solutions to support climate neutrality. As a partner of the [[entities/green-digital-action-hub|Green Digital Action Hub]], it contributes to the strategic framework for digital sustainability. The coalition emphasizes the dual potential of digital technologies to reduce environmental impact while enabling broader decarbonization across sectors. It acts as an advisory and implementation partner within the global network coordinated by the [[entities/international-telecommunication-union|International Telecommunication Union]].
+The European Green Digital Coalition is a multi-stakeholder group aimed at accelerating the deployment of green digital solutions to support climate neutrality. As a partner of the [[entities/european-green-digital-coalition|Green Digital Action Hub]], it contributes to the strategic framework for digital sustainability. The coalition emphasizes the dual potential of digital technologies to reduce environmental impact while enabling broader decarbonization across sectors. It acts as an advisory and implementation partner within the global network coordinated by the [[entities/international-telecommunication-union|International Telecommunication Union]].
 
 ## Related Entities
 - [[entities/world-bank-group|World Bank Group]]
-- [[entities/green-digital-action-hub|Green Digital Action Hub]]
+- [[entities/european-green-digital-coalition|Green Digital Action Hub]]
 - [[entities/international-telecommunication-union|International Telecommunication Union]]
 
 ## Related Concepts

@@ -2,7 +2,7 @@
 type: entity
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[sources/ITU-T L.1480 (Greening by Digital)]]"]
+sources: ["[[sources/itu-t-l-1480-greening-by-digital|ITU-T L.1480 (Greening by Digital)]]"]
 tags: [organization]
 aliases:
   - "WRI"

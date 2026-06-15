@@ -17,11 +17,11 @@ aliases:
 - Source: [[sources/news-itu-cop30_gda-hub-2025|news-itu-cop30_gda-hub-2025]]
 
 ## Description
-The Coalition for Digital Environmental Sustainability (CODES) is an international network focused on directing digital transformation toward environmental sustainability goals. It serves as a founding partner in the [[entities/green-digital-action-hub|Green Digital Action Hub]] initiative, helping to align global digital policy with climate commitments. The coalition emphasizes the importance of data-driven insights and collaborative action to ensure that digital tools actively support climate justice and circular economy transitions. By fostering multi-stakeholder partnerships, CODES aims to integrate environmental considerations into the global digital agenda.
+The Coalition for Digital Environmental Sustainability (CODES) is an international network focused on directing digital transformation toward environmental sustainability goals. It serves as a founding partner in the [[entities/european-green-digital-coalition|Green Digital Action Hub]] initiative, helping to align global digital policy with climate commitments. The coalition emphasizes the importance of data-driven insights and collaborative action to ensure that digital tools actively support climate justice and circular economy transitions. By fostering multi-stakeholder partnerships, CODES aims to integrate environmental considerations into the global digital agenda.
 
 ## Related Entities
 - [[entities/international-telecommunication-union|International Telecommunication Union]]
-- [[entities/green-digital-action-hub|Green Digital Action Hub]]
+- [[entities/european-green-digital-coalition|Green Digital Action Hub]]
 - [[entities/united-nations-institute-for-training-and-research|United Nations Institute for Training and Research]]
 - [[entities/gesellschaft-für-internationale-zusammenarbeit-giz-gmbh|Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH]]
 - [[entities/global-green-growth-institute|Global Green Growth Institute]]

@@ -2,31 +2,32 @@
 type: entity
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[itu-t-l-1480-greening-by-digital](../sources/itu-t-l-1480-greening-by-digital.qmd)"]
-tags: [organization]
+sources:
+  - "[itu-t-l-1480-greening-by-digital](../sources/itu-t-l-1480-greening-by-digital.qmd)"
+  - "[ITU-T L.1500 (Adaptation Framework)](../sources/itu-t-l-1500-adaptation-framework.qmd)"
+tags:
+  - "organization"
 aliases:
   - "Study Group 5"
   - "SG5"
 ---
-
-
-# ITU-T Study Group 5
-
-## Basic Information
-- Type: organization
-- Source: [itu-t-l-1480-greening-by-digital](../sources/itu-t-l-1480-greening-by-digital.qmd)
-
-## Description
-ITU-T Study Group 5 is the primary organ within the [International Telecommunication Union](international-telecommunication-union.qmd) responsible for the development of international standards related to the environment, climate change, and the circular economy. The group oversees the creation and maintenance of L-series recommendations, which include vital methodologies for assessing the environmental impact of information and communication technologies. By coordinating technical and operating questions, the group ensures that climate policies and assessment techniques are standardized globally. Organizations and practitioners applying [Greening by Digital](../concepts/greening-by-digital.qmd) methodologies, such as [Recommendation ITU-T L.1480](../concepts/recommendation-itu-t-l-1480.qmd), are encouraged to submit their reports to the Study Group 5 Secretariat for information and potential verification.
 
 ## Related Entities
 - [International Telecommunication Union](international-telecommunication-union.qmd)
 
 ## Related Concepts
 - [Recommendation ITU-T L.1480](../concepts/recommendation-itu-t-l-1480.qmd)
+- [Recommendation ITU-T L.1500](../sources/itu-t-l-1500-adaptation-framework.qmd)
 - [Greening by Digital](../concepts/greening-by-digital.qmd)
 - [International Standards](../concepts/international-standards.qmd)
+- [Climate Change Adaptation](../concepts/climate-change-adaptation.qmd)
 
 ## Mentions in Source
-- "The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1." — [ITU-T L.1480 (Greening by Digital)](../sources/itu-t-l-1480-greening-by-digital.qmd)
-- "In either case, if compliance with this Recommendation is claimed, practitioners are encouraged to send a copy of the report to the ITU-T SG5 Secretariat (tsbsg5@itu.int) for information." — [ITU-T L.1480 (Greening by Digital)](../sources/itu-t-l-1480-greening-by-digital.qmd)
+
+> **Source: ITU-T L.1480 (Greening by Digital)**
+> - "The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1."
+> - "In either case, if compliance with this Recommendation is claimed, practitioners are encouraged to send a copy of the report to the ITU-T SG5 Secretariat (tsbsg5@itu.int) for information."
+
+> **Source: ITU-T L.1500 (Adaptation Framework)**
+> - "The World Telecommunication Standardization Assembly (WTSA), which meets every four years, establishes the topics for study by the ITU‑T study groups which, in turn, produce Recommendations on these topics."
+> - "Edition 1.0, ITU-T L.1500, 2014-06-22, Study Group 5, Unique ID 11.1002/1000/12138."

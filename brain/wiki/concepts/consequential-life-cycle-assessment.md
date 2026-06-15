@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[sources/itu-t-l-1480-greening-by-digital|ITU-T L.1480 (Greening by Digital)]]"]
+sources: ["[[sources/itu-t-l-1480-greening-by-digital]]"]
 tags: [method]
 aliases:
   - "Consequential LCA"
@@ -30,8 +30,8 @@ Consequential life cycle assessment is an analytical method that focuses on how 
 - [[concepts/life-cycle-assessment|Life Cycle Assessment]]
 - [[concepts/recommendation-itu-t-l-1480|ITU-T L.1480]]
 - [[concepts/greening-by-digital|Greening by Digital]]
-- [[concepts/higher-order-effects|Second-order effect]]
-- [[concepts/higher-order-effects|Higher-order effects]]
+- [[concepts/second-order-effect|Second-order effect]]
+- [[concepts/second-order-effect|Higher-order effects]]
 
 ## Related Entities
 - None

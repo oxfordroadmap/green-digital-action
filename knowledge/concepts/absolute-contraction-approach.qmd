@@ -1,0 +1,38 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[ITU-T L.1470 (Greening Digital)](../sources/ITU-T L.1470 (Greening Digital).qmd)"]
+tags: [method]
+aliases:
+  - "Absolute contraction"
+  - "Absolute reduction approach"
+---
+
+
+# Absolute contraction approach
+
+## Definition
+The absolute contraction approach is a strategy for greenhouse gas emissions reduction in which an organization or sector commits to reducing its total carbon footprint by a specified percentage over a set timeframe, independent of business growth or production volume.
+
+## Key Characteristics
+- **Independence from Growth:** Targets are based on absolute emission levels rather than relative or intensity-based metrics.
+- **Alignment with Science:** Frequently tied to global climate targets, such as the IPCC P2 scenario or requirements defined by the [SBT initiative](../entities/science-based-targets-initiative.qmd).
+- **Temporal Targets:** Defines clear reduction milestones for critical years, typically 2030 and 2050, to maintain consistency with global temperature thresholds.
+
+## Applications
+- Used within the ICT sector to align corporate and sectoral climate strategies with the [1.5°C scenario](1-5°c-scenario.qmd).
+- Implementation of standardized emission trajectories as prescribed by frameworks like [ITU-T L.1470](itu-t-l-1470.qmd).
+- Long-term sustainability planning for organizations aiming to reach net-zero emissions while managing total carbon output.
+
+## Related Concepts
+- [1.5°C scenario](1-5°c-scenario.qmd)
+- [Greenhouse gas emissions](first-order-effect.qmd)
+
+## Related Entities
+- [IPCC](../entities/ipcc.qmd)
+- [SBT initiative](../entities/science-based-targets-initiative.qmd)
+
+## Mentions in Source
+- 'If applying an absolute contraction approach following the IPCC P2 scenario, the 1.5°C trajectory, reported in Table 3, would apply to the ICT sector.' — [ITU-T L.1470 (Greening Digital)](../brain/raw/ITU-T L.1470 (Greening Digital).qmd)
+- 'If an absolute contraction approach is followed based on the SBT initiative approach, the 1.5°C trajectory listed in Table 4 would apply to the ICT sector.' — [ITU-T L.1470 (Greening Digital)](../brain/raw/ITU-T L.1470 (Greening Digital).qmd)
