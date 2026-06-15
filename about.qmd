@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+This is a knowledge base curated by [Han-Teng Liao](https://hanteng.sapiens.cv/) using [Karpathy LLM Wiki](https://community.obsidian.md/plugins/karpathywikiand) if you would like to recommend a source or a topic, please contact me.
