@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[brain/raw/Statement-GDC-WSC_March-2024.md]]"]
+sources: ["[[sources/Statement-GDC-WSC_March-2024]]"]
 tags: [term]
 aliases:
   - "System Interoperability"

@@ -1,0 +1,34 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources:
+tags: [organization]
+aliases:
+  - "ISO"
+  - "International Organization for Standardization"
+  - "international-electrotechnical-commission"
+  - "International Electrotechnical Commission"
+  - "IEC"
+---
+
+
+# International Organization for Standardization
+
+## Basic Information
+- Type: organization
+- Source: [Statement-GDC-WSC_March-2024.md](../brain/raw/Statement-GDC-WSC_March-2024.md.qmd)
+
+## Description
+The International Organization for Standardization is an independent, non-governmental international organization with a membership of national standards bodies. It develops voluntary, consensus-based, market-relevant [International Standards](../concepts/international-standards.qmd) that support innovation and provide solutions to global challenges. Within the [World Standards Cooperation](world-standards-cooperation.qmd), it works alongside the [International Electrotechnical Commission](international-organization-for-standardization.qmd) and the [International Telecommunication Union](international-telecommunication-union.qmd) to ensure that standards support the broader objectives of the Global Digital Compact. It provides a trusted platform for digital cooperation among governments, industry, academia, and civil society, facilitating global consensus for diverse sectors.
+
+## Related Entities
+- [World Standards Cooperation](world-standards-cooperation.qmd)
+- [International Electrotechnical Commission](international-organization-for-standardization.qmd)
+- [International Telecommunication Union](international-telecommunication-union.qmd)
+
+## Related Concepts
+- [International Standards](../concepts/international-standards.qmd)
+
+## Mentions in Source
+- "The world’s leading developers of international standards – the International Electrotechnical Commission, the International Organization for Standardization, and the International Telecommunication Union – provide a trusted platform for digital cooperation among governments, industry, academia, and civil society." — [Statement-GDC-WSC_March-2024](../sources/statement-gdc-wsc_march-2024.qmd)

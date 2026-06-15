@@ -1,0 +1,31 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[statement-gdc-wsc_march-2024](../sources/statement-gdc-wsc_march-2024.qmd)"]
+tags: [organization]
+aliases:
+  - "WSC"
+---
+
+
+# World Standards Cooperation
+
+## Basic Information
+- Type: organization
+- Source: [statement-gdc-wsc_march-2024](../sources/statement-gdc-wsc_march-2024.qmd)
+
+## Description
+The World Standards Cooperation is an umbrella organization representing the three leading international standards development bodies: the [International Electrotechnical Commission](international-organization-for-standardization.qmd), the [International Organization for Standardization](international-organization-for-standardization.qmd), and the [International Telecommunication Union](international-telecommunication-union.qmd). It serves as a coordination mechanism to enhance collaboration, promote the use of [International Standards](../concepts/international-standards.qmd), and ensure the efficiency of the global standardization system. In the context of the [Global Digital Compact](../concepts/global-digital-compact.qmd), the WSC acts as a unified voice advocating for the importance of consensus-based technical standards in governing digital technologies.
+
+## Related Entities
+- [International Electrotechnical Commission](international-organization-for-standardization.qmd)
+- [International Organization for Standardization](international-organization-for-standardization.qmd)
+- [International Telecommunication Union](international-telecommunication-union.qmd)
+
+## Related Concepts
+- [Global Digital Compact](../concepts/global-digital-compact.qmd)
+- [International Standards](../concepts/international-standards.qmd)
+
+## Mentions in Source
+- "This statement highlights the role of international standards—developed by IEC, ISO, and ITU—in supporting the Global Digital Compact and the WSIS + 20 review, emphasizing digital cooperation, responsible AI, interoperability, and sustainable development." — [statement-gdc-wsc_march-2024](../sources/statement-gdc-wsc_march-2024.qmd)

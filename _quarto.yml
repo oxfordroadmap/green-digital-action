@@ -13,18 +13,20 @@ website:
   description: "A human-supervised knowledge base and agentic portfolio."
   site-url: "https://gda.sapiens.cv/"
 
-  # This section generates targeted navbar styles
+    # This section generates targeted navbar styles
   navbar:
+    logo: assets/brand/footprints.cv.svg
     background: dark        # Injects the "bg-dark" class
     type: dark              # Injects the "data-bs-theme=dark" context
     search: true            # Compiles the "d-flex" search box on the right side
     left:
-      - href: index.qmd
+      - href: knowledge/index.qmd
         text: LLM-wiki
-      - href: about.qmd
-        text: "What it is"
       - href: blog/index.qmd
         text: "Notes"
+      - href: about.qmd
+        text: "What it is"
+
 
 format:
   html:

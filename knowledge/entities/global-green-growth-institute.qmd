@@ -1,0 +1,29 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)"]
+tags: [organization]
+aliases:
+  - "GGGI"
+---
+
+
+# Global Green Growth Institute
+
+## Basic Information
+- Type: organization
+- Source: [news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)
+
+## Description
+The Global Green Growth Institute is an international organization dedicated to promoting green growth, defined as economic growth that is environmentally sustainable and socially inclusive. Within the [Green Digital Action Hub](green-digital-action-hub.qmd), the institute advocates for sustainable artificial intelligence. It focuses on identifying optimal pathways to minimize the environmental impact of digital innovation while achieving global [Climate Action](../concepts/climate-action.qmd) goals.
+
+## Related Entities
+- [Green Digital Action Hub](green-digital-action-hub.qmd)
+- [International Telecommunication Union](international-telecommunication-union.qmd)
+
+## Related Concepts
+- [Climate Action](../concepts/climate-action.qmd)
+
+## Mentions in Source
+- "Organizations shaping discussions and engagement at the hub will include the United Nations Institute for Training and Research (UNITAR), the World Bank Group, the European Green Digital Coalition (EGDC), Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH​, the Coalition for Digital Environmental Sustainability (CODES), and the Global Green Growth Institute (GGGI), as well as ITU." — [news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)

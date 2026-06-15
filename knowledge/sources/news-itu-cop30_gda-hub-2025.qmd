@@ -1,0 +1,46 @@
+---
+type: source
+created: 2026-06-15
+updated: 2026-06-15
+source_file: "[News-ITU-COP30_GDA-Hub-2025.md](../brain/raw/News-ITU-COP30_GDA-Hub-2025.md.qmd)"
+tags: [document]
+aliases: ["GDA Hub COP30 Launch", "ITU Green Digital Action Hub Announcement"]
+---
+
+# COP30: Green Digital Action Hub to accelerate innovation for a sustainable future - Summary
+
+## Source
+- Original file: [News-ITU-COP30_GDA-Hub-2025.md](../brain/raw/News-ITU-COP30_GDA-Hub-2025.md.qmd)
+- Ingested: 2026-06-15
+
+## Core Content
+The [Green Digital Action Hub](../entities/green-digital-action-hub.qmd) (GDA Hub) was officially launched at [COP30](../entities/cop30.qmd) in Brazil, serving as an international cooperation platform to integrate digital innovation with global [Climate Action](../concepts/climate-action.qmd). Led by the [International Telecommunication Union](../entities/international-telecommunication-union.qmd) (ITU) in partnership with major organizations including the [World Bank Group](../entities/world-bank-group.qmd) and [UNITAR](../entities/united-nations-institute-for-training-and-research.qmd), the hub functions as a "nerve centre" for sustainable development.
+
+Its primary mission is to implement the [Digital Decarbonization Plan to Accelerate Solutions](../concepts/digital-decarbonization-plan-to-accelerate-solutions.qmd) (PAS), focusing on tracking technology-related emissions and e-waste while supporting green technology transitions in the Global South. By fostering collaboration between governments and the private sector, the hub aims to bridge the gap between policy and capacity building, ensuring that the digital transformation process remains environmentally responsible and aligned with the principles of [Sustainable Development Goals](../concepts/sustainable-development-goals.qmd).
+
+## Key Entities
+- [Green Digital Action Hub](../entities/green-digital-action-hub.qmd)
+- [International Telecommunication Union](../entities/international-telecommunication-union.qmd)
+- [COP30](../entities/cop30.qmd)
+- [United Nations Institute for Training and Research](../entities/united-nations-institute-for-training-and-research.qmd)
+- [Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH](../entities/gesellschaft-für-internationale-zusammenarbeit-giz-gmbh.qmd)
+- [Global Green Growth Institute](../entities/global-green-growth-institute.qmd)
+- [World Bank Group](../entities/world-bank-group.qmd)
+- [European Green Digital Coalition](../entities/european-green-digital-coalition.qmd)
+- [Coalition for Digital Environmental Sustainability](../entities/coalition-for-digital-environmental-sustainability.qmd)
+- [Anatel](../entities/anatel.qmd)
+
+## Key Concepts
+- [Green Digital Action](../concepts/green-digital-action.qmd)
+- [Climate Action](../concepts/climate-action.qmd)
+- [Sustainable Development Goals](../concepts/sustainable-development-goals.qmd)
+- [Digital Decarbonization Plan to Accelerate Solutions](../concepts/digital-decarbonization-plan-to-accelerate-solutions.qmd)
+- [Greening by Digital](../concepts/greening-digital.qmd)
+- [Greening by digital](../concepts/greening-by-digital.qmd)
+
+## Main Points
+- The [Green Digital Action Hub](../entities/green-digital-action-hub.qmd) was established as a legacy of [COP30](../entities/cop30.qmd) to coordinate global efforts in climate-responsive digital innovation.
+- The platform provides open-access data portals to monitor greenhouse gas emissions and e-waste specifically within the tech sector.
+- The initiative balances two strategic pillars: [Greening by Digital](../concepts/greening-digital.qmd) (reducing the footprint of hardware) and [Greening by digital](../concepts/greening-by-digital.qmd) (leveraging technology to decarbonize other sectors).
+- An International Advisory Board chaired by Brazil ensures multi-stakeholder participation and regional inclusivity, particularly for the Global South.
+- The hub serves as the primary implementation vehicle for the [Digital Decarbonization Plan to Accelerate Solutions](../concepts/digital-decarbonization-plan-to-accelerate-solutions.qmd) (PAS) under the COP30 Action Agenda.

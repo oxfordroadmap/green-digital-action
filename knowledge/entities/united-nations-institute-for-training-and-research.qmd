@@ -1,0 +1,29 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)"]
+tags: [organization]
+aliases:
+  - "UNITAR"
+---
+
+
+# United Nations Institute for Training and Research
+
+## Basic Information
+- Type: organization
+- Source: [news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)
+
+## Description
+The United Nations Institute for Training and Research (UNITAR) is a specialized training agency within the United Nations system. It plays a critical role in the [Green Digital Action Hub](green-digital-action-hub.qmd) by bridging science, policy, and capacity development for sustainable digital transformation. The institute's objective is to provide data-driven insights and hands-on training to help countries accelerate responsible digital innovation that supports climate goals and circular economy transitions. Through its work, UNITAR contributes to global efforts in achieving [Sustainable Development Goals](../concepts/sustainable-development-goals.qmd).
+
+## Related Entities
+- [International Telecommunication Union](international-telecommunication-union.qmd)
+- [Green Digital Action Hub](green-digital-action-hub.qmd)
+
+## Related Concepts
+- [Sustainable Development Goals](../concepts/sustainable-development-goals.qmd)
+
+## Mentions in Source
+- "Organizations shaping discussions and engagement at the hub will include the United Nations Institute for Training and Research (UNITAR), the World Bank Group, the European Green Digital Coalition (EGDC), Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH​, the Coalition for Digital Environmental Sustainability (CODES), and the Global Green Growth Institute (GGGI), as well as ITU." — [news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)

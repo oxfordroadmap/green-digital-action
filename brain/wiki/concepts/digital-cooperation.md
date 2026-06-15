@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[sources/statement-gdc-wsc_march-2024|Statement-GDC-WSC_March-2024]]"]
+sources: ["[[sources/statement-gdc-wsc_march-2024]]"]
 tags: [term]
 aliases:
   - "Digital collaboration"
@@ -34,7 +34,7 @@ Digital cooperation refers to the coordinated efforts of governments, industry, 
 ## Related Entities
 - [[entities/world-standards-cooperation|World Standards Cooperation]]
 - [[entities/international-organization-for-standardization|International Organization for Standardization]]
-- [[entities/international-electrotechnical-commission|International Electrotechnical Commission]]
+- [[entities/international-organization-for-standardization|International Electrotechnical Commission]]
 - [[entities/international-telecommunication-union|International Telecommunication Union]]
 - [[entities/world-summit-on-the-information-society|World Summit on the Information Society]]
 

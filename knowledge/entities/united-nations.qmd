@@ -1,0 +1,29 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[itu-t-l-1480-greening-by-digital](../sources/itu-t-l-1480-greening-by-digital.qmd)"]
+tags: [organization]
+aliases:
+  - "UN"
+  - "United Nations"
+---
+
+
+# United Nations
+
+## Basic Information
+- Type: organization
+- Source: [itu-t-l-1480-greening-by-digital](../sources/itu-t-l-1480-greening-by-digital.qmd)
+
+## Description
+The United Nations is the primary international organization under whose mandate the [International Telecommunication Union](international-telecommunication-union.qmd) operates. It provides the global framework, such as the Paris Agreement, which motivates international efforts to limit global temperature rise and achieve Net Zero emissions. The [International Telecommunication Union](international-telecommunication-union.qmd) serves as the specialized agency of the United Nations responsible for telecommunications and ICT matters, effectively linking technical standards to global [Climate Action](../concepts/climate-action.qmd) goals.
+
+## Related Entities
+- [International Telecommunication Union](international-telecommunication-union.qmd)
+
+## Related Concepts
+None
+
+## Mentions in Source
+- "The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of tele­com­mu­ni­ca­tions, information and communication technologies (ICTs)." — [ITU-T L.1480 (Greening by Digital)](../sources/itu-t-l-1480-greening-by-digital.qmd)

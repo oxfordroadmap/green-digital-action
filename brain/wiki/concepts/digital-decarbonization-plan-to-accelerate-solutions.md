@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[brain/raw/News-ITU-COP30_GDA-Hub-2025.md]]"]
+sources: ["[[sources/News-ITU-COP30_GDA-Hub-2025]]"]
 tags: [method]
 aliases:
   - "PAS"

@@ -2,7 +2,7 @@
 type: entity
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[sources/statement-gdc-wsc_march-2024|statement-gdc-wsc_march-2024]]"]
+sources: ["[[sources/statement-gdc-wsc_march-2024]]"]
 tags: [organization]
 aliases:
   - "WSC"
@@ -16,10 +16,10 @@ aliases:
 - Source: [[sources/statement-gdc-wsc_march-2024|statement-gdc-wsc_march-2024]]
 
 ## Description
-The World Standards Cooperation is an umbrella organization representing the three leading international standards development bodies: the [[entities/international-electrotechnical-commission|International Electrotechnical Commission]], the [[entities/international-organization-for-standardization|International Organization for Standardization]], and the [[entities/international-telecommunication-union|International Telecommunication Union]]. It serves as a coordination mechanism to enhance collaboration, promote the use of [[concepts/international-standards|International Standards]], and ensure the efficiency of the global standardization system. In the context of the [[concepts/global-digital-compact|Global Digital Compact]], the WSC acts as a unified voice advocating for the importance of consensus-based technical standards in governing digital technologies.
+The World Standards Cooperation is an umbrella organization representing the three leading international standards development bodies: the [[entities/international-organization-for-standardization|International Electrotechnical Commission]], the [[entities/international-organization-for-standardization|International Organization for Standardization]], and the [[entities/international-telecommunication-union|International Telecommunication Union]]. It serves as a coordination mechanism to enhance collaboration, promote the use of [[concepts/international-standards|International Standards]], and ensure the efficiency of the global standardization system. In the context of the [[concepts/global-digital-compact|Global Digital Compact]], the WSC acts as a unified voice advocating for the importance of consensus-based technical standards in governing digital technologies.
 
 ## Related Entities
-- [[entities/international-electrotechnical-commission|International Electrotechnical Commission]]
+- [[entities/international-organization-for-standardization|International Electrotechnical Commission]]
 - [[entities/international-organization-for-standardization|International Organization for Standardization]]
 - [[entities/international-telecommunication-union|International Telecommunication Union]]
 

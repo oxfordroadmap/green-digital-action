@@ -2,11 +2,14 @@
 type: entity
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[brain/raw/Statement-GDC-WSC_March-2024.md]]"]
+sources:
 tags: [organization]
 aliases:
   - "ISO"
   - "International Organization for Standardization"
+  - "international-electrotechnical-commission"
+  - "International Electrotechnical Commission"
+  - "IEC"
 ---
 
 
@@ -17,11 +20,11 @@ aliases:
 - Source: [[brain/raw/Statement-GDC-WSC_March-2024.md]]
 
 ## Description
-The International Organization for Standardization is an independent, non-governmental international organization with a membership of national standards bodies. It develops voluntary, consensus-based, market-relevant [[concepts/international-standards|International Standards]] that support innovation and provide solutions to global challenges. Within the [[entities/world-standards-cooperation|World Standards Cooperation]], it works alongside the [[entities/international-electrotechnical-commission|International Electrotechnical Commission]] and the [[entities/international-telecommunication-union|International Telecommunication Union]] to ensure that standards support the broader objectives of the Global Digital Compact.
+The International Organization for Standardization is an independent, non-governmental international organization with a membership of national standards bodies. It develops voluntary, consensus-based, market-relevant [[concepts/international-standards|International Standards]] that support innovation and provide solutions to global challenges. Within the [[entities/world-standards-cooperation|World Standards Cooperation]], it works alongside the [[entities/international-organization-for-standardization|International Electrotechnical Commission]] and the [[entities/international-telecommunication-union|International Telecommunication Union]] to ensure that standards support the broader objectives of the Global Digital Compact. It provides a trusted platform for digital cooperation among governments, industry, academia, and civil society, facilitating global consensus for diverse sectors.
 
 ## Related Entities
 - [[entities/world-standards-cooperation|World Standards Cooperation]]
-- [[entities/international-electrotechnical-commission|International Electrotechnical Commission]]
+- [[entities/international-organization-for-standardization|International Electrotechnical Commission]]
 - [[entities/international-telecommunication-union|International Telecommunication Union]]
 
 ## Related Concepts

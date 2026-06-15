@@ -1,0 +1,41 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[ITU-T L.1480 (Greening by Digital)](../sources/itu-t-l-1480-greening-by-digital.qmd)"]
+tags: [method]
+aliases:
+  - "Tier 1 assessment"
+  - "Detailed assessment"
+---
+
+
+# Tier 1 assessment
+
+## Definition
+Tier 1 assessment is the most rigorous and in-depth methodology level defined by [ITU-T L.1480](recommendation-itu-t-l-1480.qmd) for evaluating the environmental impact of ICT solutions. It involves the quantification of net second order effects and a comprehensive analysis of contextual factors and higher order effects.
+
+## Key Characteristics
+- Requires the quantification of net second order effects.
+- Demands the comprehensive assessment of contextual factors.
+- Includes evaluation of higher order effects.
+- Relies on high-quality primary data for increased robustness.
+- Provides the most comprehensive analytical framework available under the standard.
+
+## Applications
+- Major decision-making processes regarding digital sustainability strategies.
+- Substantiation of public environmental claims regarding ICT enablement.
+- Detailed impact assessments where high analytical confidence is required.
+
+## Related Concepts
+- [Life cycle assessment](life-cycle-assessment.qmd)
+- [Second-order effect](higher-order-effects.qmd)
+- [Higher order effects](higher-order-effects.qmd)
+- [ITU-T L.1480](recommendation-itu-t-l-1480.qmd)
+
+## Related Entities
+None
+
+## Mentions in Source
+- "Tier 1 assessments shall assess net second order effects and shall also assess impact from contextual factors and higher order effects, by quantitative means if such assessment is considered robust, or else by qualitative means." — [ITU-T L.1480 (Greening by Digital)](../brain/raw/ITU-T L.1480 (Greening by Digital).qmd)
+- "These assessments are the most in-depth ones." — [ITU-T L.1480 (Greening by Digital)](../brain/raw/ITU-T L.1480 (Greening by Digital).qmd)

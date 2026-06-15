@@ -1,0 +1,42 @@
+---
+type: source
+created: 2026-06-15
+updated: 2026-06-15
+source_file: "[Statement-GDC-WSC_March-2024.md](../brain/raw/Statement-GDC-WSC_March-2024.md.qmd)"
+tags: [document]
+aliases: ["WSC Statement on the Global Digital Compact", "March 2024 WSC Statement"]
+---
+
+# Statement from World Standards Cooperation (WSC) on the Global Digital Compact - Summary
+
+## Source
+- Original file: [Statement-GDC-WSC_March-2024.md](../brain/raw/Statement-GDC-WSC_March-2024.md.qmd)
+- Ingested: 2026-06-15
+
+## Core Content
+This statement, issued in March 2024 by the [World Standards Cooperation](../entities/world-standards-cooperation.qmd), outlines the essential role of international technical standards in the successful implementation of the [Global Digital Compact](../concepts/global-digital-compact.qmd). The WSC—composed of the [International Electrotechnical Commission](../entities/international-organization-for-standardization.qmd), the [International Organization for Standardization](../entities/international-organization-for-standardization.qmd), and the [International Telecommunication Union](../entities/international-telecommunication-union.qmd)—argues that consensus-based standards are foundational to effective [Digital Cooperation](../concepts/digital-cooperation.qmd).
+
+The document asserts that as emerging technologies like artificial intelligence evolve, technical frameworks must be integrated into policy initiatives, including the [World Summit on the Information Society](../entities/world-summit-on-the-information-society.qmd) (WSIS+20) review. By providing platforms for [interoperability](../concepts/interoperability.qmd) and inclusive participation, the WSC aims to support [Sustainable Development Goals](../concepts/sustainable-development-goals.qmd), ensure the safe development of [Responsible AI](../concepts/responsible-ai.qmd), and provide tools for robust [Data Governance](../concepts/data-governance.qmd). The WSC highlights that standards transform high-level policy commitments into globally consistent and secure digital outcomes.
+
+## Key Entities
+- [World Standards Cooperation](../entities/world-standards-cooperation.qmd)
+- [International Electrotechnical Commission](../entities/international-organization-for-standardization.qmd)
+- [International Organization for Standardization](../entities/international-organization-for-standardization.qmd)
+- [International Telecommunication Union](../entities/international-telecommunication-union.qmd)
+- [World Summit on the Information Society](../entities/world-summit-on-the-information-society.qmd)
+
+## Key Concepts
+- [Global Digital Compact](../concepts/global-digital-compact.qmd)
+- [International Standards](../concepts/international-standards.qmd)
+- [Interoperability](../concepts/interoperability.qmd)
+- [Responsible AI](../concepts/responsible-ai.qmd)
+- [Digital Cooperation](../concepts/digital-cooperation.qmd)
+- [Sustainable Development Goals](../concepts/sustainable-development-goals.qmd)
+- [Data Governance](../concepts/data-governance.qmd)
+
+## Main Points
+- International standards are essential for the effective implementation and operationalization of the [Global Digital Compact](../concepts/global-digital-compact.qmd).
+- The [World Standards Cooperation](../entities/world-standards-cooperation.qmd) provides a neutral, multi-stakeholder platform for developing consensus-based technical standards.
+- Standards facilitate global innovation, ensure technical [Interoperability](../concepts/interoperability.qmd), and promote inclusive access to digital technologies.
+- Technical standards must be aligned with the outcomes of the [World Summit on the Information Society](../entities/world-summit-on-the-information-society.qmd) review process to remain relevant.
+- International standards serve as critical tools for monitoring progress and enforcing governance regarding [Responsible AI](../concepts/responsible-ai.qmd) and [Data Governance](../concepts/data-governance.qmd).

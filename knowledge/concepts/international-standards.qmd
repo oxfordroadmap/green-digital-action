@@ -1,0 +1,44 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[Statement-GDC-WSC_March-2024](../sources/Statement-GDC-WSC_March-2024.qmd)"]
+tags: [technology]
+aliases:
+  - "Standards"
+  - "Global Standards"
+---
+
+
+# International Standards
+
+## Definition
+International standards are consensus-based documents that provide rules, guidelines, or characteristics for activities or their results, aimed at achieving the optimum degree of order in a given context. In the digital sector, they serve as the technical backbone for innovation and are vital for implementing global policy commitments.
+
+## Key Characteristics
+- **Consensus-based**: Developed through a collaborative process involving multiple stakeholders across international borders.
+- **Interoperability**: Facilitate the seamless exchange and interaction between different technologies, systems, and devices.
+- **Compatibility**: Ensure that products and services from different vendors can function together.
+- **Global Reach**: Designed to be applicable on a worldwide scale to minimize trade barriers and promote consistency.
+
+## Applications
+- **Digital Infrastructure**: Ensuring global connectivity and network compatibility.
+- **Technical Regulation**: Providing the baseline for safety, security, and quality requirements in hardware and software.
+- **Policy Implementation**: Supporting global agreements such as the [Global Digital Compact](global-digital-compact.qmd) by providing the technical infrastructure required for digital cooperation.
+- **Innovation Support**: Creating a stable, predictable environment that allows technologies to scale globally in a cost-effective manner.
+
+## Related Concepts
+- [Interoperability](interoperability.qmd)
+- [Responsible AI](responsible-ai.qmd)
+- [Global Digital Compact](global-digital-compact.qmd)
+
+## Related Entities
+- [World Standards Cooperation](../entities/world-standards-cooperation.qmd)
+- [International Organization for Standardization](../entities/international-organization-for-standardization.qmd)
+- [International Electrotechnical Commission](../entities/international-organization-for-standardization.qmd)
+- [International Telecommunication Union](../entities/international-telecommunication-union.qmd)
+- [World Summit on the Information Society](../entities/world-summit-on-the-information-society.qmd)
+
+## Mentions in Source
+- "Standards support innovation on a global scale, as cost-effectively as possible." — [Statement-GDC-WSC_March-2024](../brain/raw/Statement-GDC-WSC_March-2024.qmd)
+- "Standards enable interconnection, interoperability, and compatibility, with the result that digital technologies rely on standards to an extent rivalled by few other industry sectors." — [Statement-GDC-WSC_March-2024](../brain/raw/Statement-GDC-WSC_March-2024.qmd)

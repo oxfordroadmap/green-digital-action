@@ -1,0 +1,40 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[[sources/itu-t-l-1480-greening-by-digital|ITU-T L.1480 (Greening by Digital)]]"]
+tags: [method]
+aliases:
+  - "Consequential LCA"
+  - "CLCA"
+---
+
+
+# Consequential life cycle assessment
+
+## Definition
+Consequential life cycle assessment is an analytical method that focuses on how environmental impacts change in response to a specific decision or change within a system. Unlike traditional, attributional approaches, it accounts for systemic effects, market responses, and broader consequences triggered by an intervention.
+
+## Key Characteristics
+- Focuses on the consequences of a change or decision rather than just allocating system burdens.
+- Accounts for system-wide effects, such as rebound effects and indirect impacts.
+- Often models marginal changes in supply and demand.
+- Frequently used to assess the net environmental impact of new technologies or policies.
+
+## Applications
+- Assessing the systemic environmental impacts of introducing ICT solutions as defined in [[concepts/recommendation-itu-t-l-1480|ITU-T L.1480]].
+- Evaluating climate policy scenarios where market dynamics or behavioral changes play a significant role.
+- Analyzing the net effect of digital transformation initiatives on greenhouse gas emissions.
+
+## Related Concepts
+- [[concepts/life-cycle-assessment|Life Cycle Assessment]]
+- [[concepts/recommendation-itu-t-l-1480|ITU-T L.1480]]
+- [[concepts/greening-by-digital|Greening by Digital]]
+- [[concepts/higher-order-effects|Second-order effect]]
+- [[concepts/higher-order-effects|Higher-order effects]]
+
+## Related Entities
+- None
+
+## Mentions in Source
+- "This Recommendation applies a hybrid approach including elements of both consequential and process-sum life cycle assessment (LCA) - the scoping considers consequential principles, whereas the quantitative assessment is based on process-sum LCA." — [[brain/raw/ITU-T L.1480 (Greening by Digital)|ITU-T L.1480 (Greening by Digital)]]

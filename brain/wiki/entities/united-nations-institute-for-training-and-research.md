@@ -2,7 +2,7 @@
 type: entity
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[sources/news-itu-cop30_gda-hub-2025|news-itu-cop30_gda-hub-2025]]"]
+sources: ["[[sources/news-itu-cop30_gda-hub-2025]]"]
 tags: [organization]
 aliases:
   - "UNITAR"

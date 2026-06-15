@@ -1,0 +1,31 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[itu-t-l-1480-greening-by-digital](../sources/itu-t-l-1480-greening-by-digital.qmd)"]
+tags: [organization]
+aliases:
+  - "ADEME"
+  - "French Agency for Ecological Transition"
+---
+
+
+# French Agency for Ecological Transition
+
+## Basic Information
+- Type: organization
+- Source: [ITU-T L.1480 (Greening by Digital)](../sources/itu-t-l-1480-greening-by-digital.qmd)
+
+## Description
+The French Agency for Ecological Transition (ADEME) is a public entity that promotes and supports the implementation of ecological transition policies in France. In the context of [ITU-T L.1480](../sources/itu-t-l-1480-greening-by-digital.qmd), ADEME is cited for its foundational work in developing methodologies for assessing greenhouse gas emission impacts and reduction actions. Its frameworks are used as a basis for the standard's consequential approach to evaluating the environmental consequences of deploying ICT solutions. Through its research and operational guidance, the agency contributes significantly to global [Climate Action](../concepts/climate-action.qmd) standards.
+
+## Related Entities
+- [GSMA](gsma.qmd)
+- [World Resources Institute](world-resources-institute.qmd)
+- [Mission Innovation](mission-innovation.qmd)
+
+## Related Concepts
+- [Life cycle assessment](../concepts/life-cycle-assessment.qmd)
+
+## Mentions in Source
+- "Moreover, this Recommendation builds on [ITU-T L.1440], [ITU-T L.1430] and [ITU-T L.1451] and has also considered previous work by organizations, authorities and researchers including but not limited to work by the French Agency for Ecological Transition (ADEME), GSMA, the World Resources Institute (WRI), Mission Innovation and individual researchers." — [ITU-T L.1480 (Greening by Digital)](../sources/itu-t-l-1480-greening-by-digital.qmd)

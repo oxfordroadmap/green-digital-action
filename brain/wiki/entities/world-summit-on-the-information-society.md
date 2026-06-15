@@ -2,7 +2,7 @@
 type: entity
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[brain/raw/Statement-GDC-WSC_March-2024.md]]"]
+sources: ["[[sources/Statement-GDC-WSC_March-2024]]"]
 tags: [event]
 aliases:
   - "WSIS"
@@ -17,11 +17,11 @@ aliases:
 - Source: [[brain/raw/Statement-GDC-WSC_March-2024.md]]
 
 ## Description
-The World Summit on the Information Society (WSIS) is a global UN-led initiative aimed at creating a common vision and understanding of the information society. The summit process serves as a fundamental framework for international cooperation, which the [[entities/global-digital-compact|Global Digital Compact]] aims to build upon. The 'WSIS+20' review process acts as a critical milestone for assessing two decades of digital development. Furthermore, the role of international standards remains instrumental in achieving the long-term objectives set forth during these summits, as emphasized by stakeholders such as the [[entities/world-standards-cooperation|World Standards Cooperation]].
+The World Summit on the Information Society (WSIS) is a global UN-led initiative aimed at creating a common vision and understanding of the information society. The summit process serves as a fundamental framework for international cooperation, which the [[concepts/global-digital-compact|global-digital-compact]] aims to build upon. The 'WSIS+20' review process acts as a critical milestone for assessing two decades of digital development. Furthermore, the role of international standards remains instrumental in achieving the long-term objectives set forth during these summits, as emphasized by stakeholders such as the [[entities/world-standards-cooperation|World Standards Cooperation]].
 
 ## Related Entities
 - [[entities/world-standards-cooperation|World Standards Cooperation]]
-- [[entities/global-digital-compact|Global Digital Compact]]
+- [[concepts/global-digital-compact|global-digital-compact]]
 
 ## Related Concepts
 - [[concepts/digital-cooperation|Digital Cooperation]]

@@ -1,0 +1,62 @@
+# Wiki Index
+
+> Auto-generated knowledge base directory
+
+> Note: Text in backticks after page names shows aliases — alternative names, abbreviations, or translations.
+
+## Entities
+
+- [itu-t-study-group-5](entities/itu-t-study-group-5.qmd) `aliases: Study Group 5, SG5` - type: entity
+- [united-nations](entities/united-nations.qmd) `aliases: UN, United Nations` - type: entity
+- [mission-innovation](entities/mission-innovation.qmd) `aliases: MI` - type: entity
+- [world-resources-institute](entities/world-resources-institute.qmd) `aliases: WRI, World Resources Institute` - type: entity
+- [gsma](entities/gsma.qmd) `aliases: GSM Association, GSMA` - type: entity
+- [french-agency-for-ecological-transition](entities/french-agency-for-ecological-transition.qmd) `aliases: ADEME, French Agency for Ecological Transition` - type: entity
+- [anatel](entities/anatel.qmd) `aliases: Agência Nacional de Telecomunicações, National Telecommunications Agency of Brazil` - type: entity
+- [european-green-digital-coalition](entities/european-green-digital-coalition.qmd) `aliases: EGDC` - type: entity
+- [world-bank-group](entities/world-bank-group.qmd) `aliases: World Bank, WBG` - type: entity
+- [coalition-for-digital-environmental-sustainability](entities/coalition-for-digital-environmental-sustainability.qmd) `aliases: CODES, Coalition for Digital Environmental Sustainability` - type: entity
+- [gesellschaft-für-internationale-zusammenarbeit-giz-gmbh](entities/gesellschaft-für-internationale-zusammenarbeit-giz-gmbh.qmd) `aliases: GIZ, German Agency for International Cooperation` - type: entity
+- [united-nations-institute-for-training-and-research](entities/united-nations-institute-for-training-and-research.qmd) `aliases: UNITAR` - type: entity
+- [global-green-growth-institute](entities/global-green-growth-institute.qmd) `aliases: GGGI` - type: entity
+- [green-digital-action-hub](entities/green-digital-action-hub.qmd) `aliases: GDA Hub, Green Digital Action Hub` - type: entity
+- [cop30](entities/cop30.qmd) `aliases: 30th UN Climate Change Conference, COP 30` - type: entity
+- [international-telecommunication-union](entities/international-telecommunication-union.qmd) `aliases: ITU, International Telecommunication Union, ITU-T, ITU, International Telecommunication Union` - type: entity
+- [world-summit-on-the-information-society](entities/world-summit-on-the-information-society.qmd) `aliases: WSIS, World Summit on the Information Society` - type: entity
+- [world-standards-cooperation](entities/world-standards-cooperation.qmd) `aliases: WSC` - type: entity
+- [international-organization-for-standardization](entities/international-organization-for-standardization.qmd) `aliases: ISO, International Organization for Standardization, international-electrotechnical-commission, International Electrotechnical Commission, IEC` - type: entity
+
+## Concepts
+
+- [second-order-effect](concepts/second-order-effect.qmd) - (empty)
+- [financial-effects-assessment](concepts/financial-effects-assessment.qmd) `aliases: Assessment of financial gains, Carbon impact of financial gains` - type: concept
+- [contextual-factors](concepts/contextual-factors.qmd) `aliases: Structural conditions, Incentives and obstacles` - type: concept
+- [consequence-tree](concepts/consequence-tree.qmd) `aliases: Effect mapping` - type: concept
+- [tier-3-assessment](concepts/tier-3-assessment.qmd) `aliases: Tier 3 assessment, Screening assessment` - type: concept
+- [tier-2-assessment](concepts/tier-2-assessment.qmd) `aliases: Tier 2 assessment` - type: concept
+- [tier-1-assessment](concepts/tier-1-assessment.qmd) `aliases: Tier 1 assessment, Detailed assessment` - type: concept
+- [modifying-usage](concepts/modifying-usage.qmd) `aliases: Substitution, Modification of usage` - type: concept
+- [avoided-emissions](concepts/avoided-emissions.qmd) `aliases: Enablement effect` - type: concept
+- [reference-scenario](concepts/reference-scenario.qmd) `aliases: Baseline scenario, Reference activity, Baseline scenario` - type: concept
+- [consequential-life-cycle-assessment](concepts/consequential-life-cycle-assessment.qmd) `aliases: Consequential LCA, CLCA` - type: concept
+- [life-cycle-assessment](concepts/life-cycle-assessment.qmd) `aliases: LCA, Life Cycle Assessment` - type: concept
+- [higher-order-effects](concepts/higher-order-effects.qmd) `aliases: Higher order effects, Indirect effects, second-order-effect, Indirect impact, Second-order effect, ICT indirect impact, Rebound effect, Induction, rebound effect, induction, third-order effects` - type: concept
+- [first-order-effect](concepts/first-order-effect.qmd) `aliases: Environmental footprint, Lifecycle emissions` - type: concept
+- [recommendation-itu-t-l-1480](concepts/recommendation-itu-t-l-1480.qmd) `aliases: ITU-T L.1480, Methodology for assessing the impact of ICT on GHG emissions` - type: concept
+- [greening-by-digital](concepts/greening-by-digital.qmd) `aliases: Digital-enabled sustainability, Greening by Digital, Net Enablement Effect, Digital-enabled sustainability, Greening by Digital, Net second order effect, Digital-enabled sustainability, Greening by Digital, Net Enablement Effect, Digital-enabled sustainability, Greening by Digital` - type: concept
+- [digital-decarbonization-plan-to-accelerate-solutions](concepts/digital-decarbonization-plan-to-accelerate-solutions.qmd) `aliases: PAS, Digital Decarbonization Plan` - type: concept
+- [climate-action](concepts/climate-action.qmd) `aliases: Climate Action, Global Climate Action` - type: concept
+- [green-digital-action](concepts/green-digital-action.qmd) `aliases: GDA, Green Digital Action Framework` - type: concept
+- [digital-cooperation](concepts/digital-cooperation.qmd) `aliases: Digital collaboration` - type: concept
+- [sustainable-development-goals](concepts/sustainable-development-goals.qmd) `aliases: SDGs, Sustainable Development, SDGs` - type: concept
+- [data-governance](concepts/data-governance.qmd) `aliases: Data Management` - type: concept
+- [interoperability](concepts/interoperability.qmd) `aliases: System Interoperability, Tech Interoperability` - type: concept
+- [responsible-ai](concepts/responsible-ai.qmd) `aliases: RAI` - type: concept
+- [international-standards](concepts/international-standards.qmd) `aliases: Standards, Global Standards` - type: concept
+- [global-digital-compact](concepts/global-digital-compact.qmd) `aliases: GDC, UN Global Digital Compact` - type: concept
+
+## Sources
+
+- [itu-t-l-1480-greening-by-digital](sources/itu-t-l-1480-greening-by-digital.qmd) `aliases: ITU-T L.1480, Enabling the net-zero transition`
+- [news-itu-cop30_gda-hub-2025](sources/news-itu-cop30_gda-hub-2025.qmd) `aliases: GDA Hub COP30 Launch, ITU Green Digital Action Hub Announcement`
+- [statement-gdc-wsc_march-2024](sources/statement-gdc-wsc_march-2024.qmd) `aliases: WSC Statement on the Global Digital Compact, March 2024 WSC Statement`

@@ -1,0 +1,39 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[itu-t-l-1480-greening-by-digital](../sources/itu-t-l-1480-greening-by-digital.qmd)"]
+tags: [method]
+aliases:
+  - "LCA"
+  - "Life Cycle Assessment"
+---
+
+
+# Life cycle assessment
+
+## Definition
+Life cycle assessment (LCA) is a systematic methodology for evaluating the environmental impacts of a product or service throughout its entire life, spanning from raw material extraction and production to use and end-of-life disposal.
+
+## Key Characteristics
+- **Systematic Approach**: Evaluates impacts across the entire value chain.
+- **Hybrid Methodology**: Often combines consequential principles (for scoping) with process-sum calculations (for quantitative assessment).
+- **Comprehensive Scope**: Accounts for all stages, including extraction, manufacturing, operation, and disposal.
+- **Framework Basis**: Serves as the foundational structure for calculating environmental footprints and enabling effects in the ICT sector.
+
+## Applications
+- Measuring the environmental footprint of digital products and services.
+- Evaluating the enabling effects of ICT solutions on carbon emissions.
+- Informing sustainable design and development strategies within the technology sector.
+- Compliance with standardized environmental reporting frameworks.
+
+## Related Concepts
+- [First order effect](first-order-effect.qmd)
+- [Second-order effect](higher-order-effects.qmd)
+- [Recommendation ITU-T L.1480](recommendation-itu-t-l-1480.qmd)
+
+## Related Entities
+None.
+
+## Mentions in Source
+- "This Recommendation applies a hybrid approach including elements of both consequential and process-sum life cycle assessment (LCA) - the scoping considers consequential principles, whereas the quantitative assessment is based on process-sum LCA." — [ITU-T L.1480 (Greening by Digital)](../sources/itu-t-l-1480-greening-by-digital.qmd)

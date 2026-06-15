@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[brain/raw/Statement-GDC-WSC_March-2024.md]]"]
+sources: ["[[sources/Statement-GDC-WSC_March-2024]]"]
 tags: [technology]
 aliases:
   - "Standards"
@@ -35,7 +35,7 @@ International standards are consensus-based documents that provide rules, guidel
 ## Related Entities
 - [[entities/world-standards-cooperation|World Standards Cooperation]]
 - [[entities/international-organization-for-standardization|International Organization for Standardization]]
-- [[entities/international-electrotechnical-commission|International Electrotechnical Commission]]
+- [[entities/international-organization-for-standardization|International Electrotechnical Commission]]
 - [[entities/international-telecommunication-union|International Telecommunication Union]]
 - [[entities/world-summit-on-the-information-society|World Summit on the Information Society]]
 

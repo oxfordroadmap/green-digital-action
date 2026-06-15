@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[sources/statement-gdc-wsc_march-2024|statement-gdc-wsc_march-2024]]"]
+sources: ["[[sources/statement-gdc-wsc_march-2024]]"]
 tags: [theory]
 aliases:
   - "GDC"
@@ -33,7 +33,7 @@ The Global Digital Compact is an international initiative facilitated by the Uni
 ## Related Entities
 - [[entities/world-standards-cooperation|World Standards Cooperation]]
 - [[entities/international-organization-for-standardization|International Organization for Standardization]]
-- [[entities/international-electrotechnical-commission|International Electrotechnical Commission]]
+- [[entities/international-organization-for-standardization|International Electrotechnical Commission]]
 
 ## Mentions in Source
 - "Informal consultations towards a Global Digital Compact have highlighted the immense potential of digital technologies and supporting cooperation, including the governance of emerging digital technologies, to support sustainable development and promote and protect human rights." — [[sources/statement-gdc-wsc_march-2024|statement-gdc-wsc_march-2024]]

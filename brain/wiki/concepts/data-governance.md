@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-15
 updated: 2026-06-15
-sources: ["[[sources/statement-gdc-wsc_march-2024|statement-gdc-wsc_march-2024]]"]
+sources: ["[[sources/statement-gdc-wsc_march-2024]]"]
 tags: [method]
 aliases:
   - "Data Management"

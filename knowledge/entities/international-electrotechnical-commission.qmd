@@ -1,0 +1,31 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[statement-gdc-wsc_march-2024](../sources/statement-gdc-wsc_march-2024.qmd)"]
+tags: [organization]
+aliases:
+  - "International Electrotechnical Commission"
+  - "IEC"
+---
+
+
+# International Electrotechnical Commission
+
+## Basic Information
+- Type: organization
+- Source: [statement-gdc-wsc_march-2024](../sources/statement-gdc-wsc_march-2024.qmd)
+
+## Description
+The International Electrotechnical Commission is a global, not-for-profit membership organization that develops international standards for all electrical, electronic, and related technologies. As a member of the [World Standards Cooperation](world-standards-cooperation.qmd), it plays a critical role in defining technical specifications that ensure the safety, efficiency, and interoperability of electronic systems. It contributes to digital cooperation by providing a consensus-based framework for industry and government stakeholders.
+
+## Related Entities
+- [World Standards Cooperation](world-standards-cooperation.qmd)
+- [International Organization for Standardization](international-organization-for-standardization.qmd)
+- [International Telecommunication Union](international-telecommunication-union.qmd)
+
+## Related Concepts
+- [International Standards](../concepts/international-standards.qmd)
+
+## Mentions in Source
+- "The world’s leading developers of international standards – the International Electrotechnical Commission, the International Organization for Standardization, and the International Telecommunication Union – provide a trusted platform for digital cooperation among governments, industry, academia, and civil society." — [statement-gdc-wsc_march-2024](../sources/statement-gdc-wsc_march-2024.qmd)

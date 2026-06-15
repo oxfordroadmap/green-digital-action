@@ -1,0 +1,31 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources:
+  - "[itu-t-l-1480-greening-by-digital](../sources/itu-t-l-1480-greening-by-digital.qmd)"
+  - "[ITU-T L.1480 (Greening by Digital)](../sources/itu-t-l-1480-greening-by-digital.qmd)"
+tags:
+  - "method"
+aliases:
+  - "Baseline scenario"
+  - "Reference activity"
+  - "Baseline scenario"
+---
+
+## Description
+The reference scenario functions as the primary baseline for evaluating the environmental impact of digital interventions. It encompasses the reference activity, which is the non-ICT process that an ICT solution is intended to modify, optimize, or substitute. By modeling the carbon footprint of this activity in the absence of the digital solution, assessors can quantify the net enablement effect through comparative analysis. These scenarios must be projection-based, incorporating realistic technological and behavioral trends to ensure the validity of the assessment and maintain credibility in comparative environmental impact studies.
+
+## Related Concepts
+- [Greening by Digital](greening-by-digital.qmd)
+- [Life Cycle Assessment](life-cycle-assessment.qmd)
+- [Consequential Life Cycle Assessment](consequential-life-cycle-assessment.qmd)
+- [Avoided Emissions](avoided-emissions.qmd)
+
+## Related Entities
+- [International Telecommunication Union](../entities/international-telecommunication-union.qmd)
+
+## Mentions in Source
+- "The identification and definition of one or more reference scenarios is as important to the result of the assessment as the definition of the ICT solution scenario, and the most probable reference scenario shall be selected to serve as the baseline." — [ITU-T L.1480](../sources/itu-t-l-1480-greening-by-digital.qmd)
+- "The reference activity (e.g., by optimizing it or substituting it partially or entirely)." — [ITU-T L.1480](../sources/itu-t-l-1480-greening-by-digital.qmd)
+- "The reference scenario (the situation without the studied ICT solution applied, i.e., a situation with only the reference activity in place)." — [ITU-T L.1480](../sources/itu-t-l-1480-greening-by-digital.qmd)

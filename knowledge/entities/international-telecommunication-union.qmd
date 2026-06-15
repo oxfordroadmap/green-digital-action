@@ -1,0 +1,39 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources:
+  - "[Statement-GDC-WSC_March-2024](../sources/Statement-GDC-WSC_March-2024.qmd)"
+  - "[News-ITU-COP30_GDA-Hub-2025](../sources/News-ITU-COP30_GDA-Hub-2025.qmd)"
+  - "[ITU-T L.1480 (Greening by Digital)](../sources/itu-t-l-1480-greening-by-digital.qmd)"
+tags:
+  - "organization"
+aliases:
+  - "ITU"
+  - "International Telecommunication Union"
+  - "ITU-T"
+  - "ITU"
+  - "International Telecommunication Union"
+---
+
+## Related Entities
+- [World Standards Cooperation](world-standards-cooperation.qmd)
+- [International Electrotechnical Commission](international-organization-for-standardization.qmd)
+- [International Organization for Standardization](international-organization-for-standardization.qmd)
+- [World Summit on the Information Society](world-summit-on-the-information-society.qmd)
+- [Green Digital Action Hub](green-digital-action-hub.qmd)
+- [COP30](cop30.qmd)
+
+## Related Concepts
+- [International Standards](../concepts/international-standards.qmd)
+- [Global Digital Compact](../concepts/global-digital-compact.qmd)
+- [Sustainable Development Goals](../concepts/sustainable-development-goals.qmd)
+- [Green Digital Action](../concepts/green-digital-action.qmd)
+- [Digital Cooperation](../concepts/digital-cooperation.qmd)
+- [Greening by Digital](../concepts/greening-by-digital.qmd)
+- [Recommendation ITU-T L.1480](../concepts/recommendation-itu-t-l-1480.qmd)
+
+## Mentions in Source
+- "The world’s leading developers of international standards – the International Electrotechnical Commission, the International Organization for Standardization, and the International Telecommunication Union – provide a trusted platform for digital cooperation among governments, industry, academia, and civil society." 
+- "Unveiled on COP30's opening day, the hub is set to become the nerve centre of Green Digital Action, a partnership kicked off by the International Telecommunication Union (ITU) with leading tech organizations at COP28 in 2023." 
+- "The International Telecommunication Union (ITU) is the United Nations agency for digital technologies, driving innovation for people and the planet with 194 Member States and a membership of over 1,000 companies, universities, civil society, and international and regional organizations."

@@ -1,0 +1,34 @@
+---
+type: entity
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)"]
+tags: [organization]
+aliases:
+  - "World Bank"
+  - "WBG"
+---
+
+
+# World Bank Group
+
+## Basic Information
+- Type: organization
+- Source: [news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)
+
+## Description
+The World Bank Group is a prominent international financial institution providing financial and technical assistance to developing countries. It plays a pivotal role in the [Green Digital Action Hub](green-digital-action-hub.qmd), working to foster sustainable digital transformation and climate action. By contributing specialized expertise, the institution helps integrate digital solutions into national development and climate strategies. Through collaborative efforts with partners like the [International Telecommunication Union](international-telecommunication-union.qmd) and the [Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH](gesellschaft-für-internationale-zusammenarbeit-giz-gmbh.qmd), the World Bank Group bridges the critical intersection of digital and climate agendas.
+
+## Related Entities
+- [International Telecommunication Union](international-telecommunication-union.qmd)
+- [Green Digital Action Hub](green-digital-action-hub.qmd)
+- [United Nations Institute for Training and Research](united-nations-institute-for-training-and-research.qmd)
+- [Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH](gesellschaft-für-internationale-zusammenarbeit-giz-gmbh.qmd)
+- [Global Green Growth Institute](global-green-growth-institute.qmd)
+
+## Related Concepts
+- [Sustainable Development](../concepts/sustainable-development-goals.qmd)
+- [Climate Action](../concepts/climate-action.qmd)
+
+## Mentions in Source
+- "Organizations shaping discussions and engagement at the hub will include the United Nations Institute for Training and Research (UNITAR), the World Bank Group, the European Green Digital Coalition (EGDC), Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH​, the Coalition for Digital Environmental Sustainability (CODES), and the Global Green Growth Institute (GGGI), as well as ITU." — [news-itu-cop30_gda-hub-2025](../sources/news-itu-cop30_gda-hub-2025.qmd)

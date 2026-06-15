@@ -1,0 +1,42 @@
+---
+type: concept
+created: 2026-06-15
+updated: 2026-06-15
+sources: ["[statement-gdc-wsc_march-2024](../sources/statement-gdc-wsc_march-2024.qmd)"]
+tags: [term]
+aliases:
+  - "Digital collaboration"
+---
+
+
+# Digital Cooperation
+
+## Definition
+Digital cooperation refers to the coordinated efforts of governments, industry, academia, and civil society to govern digital technologies and promote sustainable development. It serves as a foundational approach to managing the risks and benefits of the digital era, ensuring inclusive access to technology and knowledge.
+
+## Key Characteristics
+- **Multi-stakeholder engagement**: Involves collaboration between governments, the private sector, academic institutions, and civil society.
+- **Goal-oriented**: Focused on facilitating sustainable development and the realization of human rights.
+- **Standardization focus**: Utilizes consensus-based mechanisms to harmonize digital practices and governance frameworks.
+- **Inclusivity**: Emphasizes the need to bridge digital divides and ensure equitable access to technological resources.
+
+## Applications
+- **Governance of Emerging Technologies**: Establishing frameworks for the responsible development and deployment of new digital tools.
+- **Global Digital Compact (GDC)**: Serving as a central pillar for international policy alignment under the United Nations framework.
+- **Standardization**: Facilitating global cooperation to ensure interoperability and safety in digital infrastructure.
+
+## Related Concepts
+- [Global Digital Compact](global-digital-compact.qmd)
+- [International Standards](international-standards.qmd)
+- [Interoperability](interoperability.qmd)
+- [Responsible AI](responsible-ai.qmd)
+
+## Related Entities
+- [World Standards Cooperation](../entities/world-standards-cooperation.qmd)
+- [International Organization for Standardization](../entities/international-organization-for-standardization.qmd)
+- [International Electrotechnical Commission](../entities/international-organization-for-standardization.qmd)
+- [International Telecommunication Union](../entities/international-telecommunication-union.qmd)
+- [World Summit on the Information Society](../entities/world-summit-on-the-information-society.qmd)
+
+## Mentions in Source
+- "Informal consultations towards a Global Digital Compact have highlighted the immense potential of digital technologies and supporting cooperation, including the governance of emerging digital technologies, to support sustainable development and promote and protect human rights." — [Statement-GDC-WSC_March-2024](../sources/statement-gdc-wsc_march-2024.qmd)
