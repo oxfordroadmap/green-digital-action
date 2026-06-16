@@ -17,8 +17,8 @@ keywords:
   - Digital Sustainable Transition 
   - Infrastructure Stacks 
   - Climate Adaptation and Mitigation
-image: "https://ec.europa.eu/newsroom/repository/document/2023-4/Founding_Members_update_202301_HYAfDdNL0GyWbv9fcDJFY3g120_93244.png"
-image-alt: "
+image: "https://www.itu.int/epublications/api/static/itu-t-l-1520-2026-03-enablement-indicator-of-information-and-communication-technologies-to-other-sectors-and-best-practices-to-achieve-net-zero-goal/en/image/image.052.png"
+image-alt: "Level map of ICT enablement electric sector"
 ---
 # Tracking the Evolution of ITU-T Question 12/5: From Structural Resilience to Vertical System Enablement
 
