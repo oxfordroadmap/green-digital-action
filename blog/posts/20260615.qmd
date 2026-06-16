@@ -1,0 +1,39 @@
+---
+title: "Navigating the UN’s AI Architecture"
+subtitle: "An Interconnected Strategy Primer"
+summary: "This primer frames the United Nations system-wide orchestration of artificial intelligence, illustrating how global ethical guardrails, governance frameworks, and internal operational stacks tightly interconnect to rescue the Sustainable Development Goals."
+author: "Han-Teng Liao"
+date: "2026-06-15"
+categories: [Research, Socio-Technical Governance, Sustainable Development]
+tags: 
+  - STANDARDS
+  - GOVERNANCE
+  - ETHICS
+  - UN-SYSTEM
+keywords: 
+  - AI Governance
+  - Capacity Building
+  - Operational Infrastructure Stacks
+  - Inter-agency Coordination
+  - Ethical Frameworks
+  - Sustainable Development Goals
+image: "https://unsceb.org/sites/default/files/2026-01/CEB_Wheel-2026-01-Website.png"
+image-alt: "Under the chairmanship of the UN Secretary-General, the United Nations System Chief Executives Board for Coordination (CEB) provides broad guidance, coordination and strategic direction for the UN system in the areas under the responsibility of Executive Heads. Focus is placed on inter-agency priorities and initiatives while ensuring that the independent mandates of organizations are maintained."
+bibliography: \references.bib
+source: https://unsceb.org/topics/artificial-intelligence
+format: html
+---
+
+### Navigating the UN’s AI Architecture: An Interconnected Strategy Primer
+
+As artificial intelligence shifts global socioeconomic paradigms, the United Nations System Chief Executives Board for Coordination (CEB) has spearheaded a unified framework to maximize technological opportunities while mitigating systemic risks. Far from being a series of isolated initiatives, the key policy declarations and operational blueprints produced by the UN since 2017 form a tightly integrated ecosystem. This primer unpacks how these structural pillars interconnect to guide international governance and internal adoption.
+
+The foundational bedrock relies on an equilibrium between ethical guardrails and capacity building. The framework officially launched with the 2019 _System-Wide Strategic Approach and Road Map for Supporting Capacity Development on AI_ [@ceb2019roadmap], focusing heavily on assisting developing regions. However, technical empowerment requires values-based boundaries. This mandate was realized when UNESCO’s 2021 global _Recommendation on the Ethics of AI_ [@unesco2021recommendation] was translated directly by the High-level Committee on Programmes (HLCP) into the 2022 _Principles for the Ethical Use of AI in the UN System_ [@ceb2022principles]. Together, these documents ensure that capacity expansion always adheres to human rights, non-discrimination, and absolute transparency.
+
+Building directly upon these macro-ethical constraints, the strategy transitions into global policy coordination and operational scaling. The 2024 _UN System White Paper on AI Governance_ [@ceb2024whitepaper] maps existing multilateral legal norms against current institutional capabilities, offering an analytical bridge to assist the Secretary-General’s High-level Advisory Body on AI. Crucially, as the White Paper addresses external global frameworks, the High-Level Committee on Management (HLCM) AI Task Force simultaneously translates these parameters inward. The resulting _Framework for a Model Policy on the Responsible Use of AI in the UN System_ [@hlcm2024framework] establishes strict operational safety boundaries for internal agencies, while the accompanying _Report on the Operational Use of AI_ [@hlcm2024report] establishes mechanisms to scale technological infrastructure responsibly, including exploring shared infrastructure like a unified UN Generative AI platform.
+
+Ultimately, the strength of the United Nations' digital agenda lies in this structural cohesion. Macro-level ethical guidelines directly dictate field-level capacity building, while global governance blueprints explicitly shape internal agency procurement and operational boundaries. By maintaining this seamless conceptual continuity, the UN establishes a comprehensive template for safe, values-led, and highly collaborative technological innovation designed explicitly to rescue the Sustainable Development Goals.
+
+## References
+
+::: {#refs} :::

@@ -4,7 +4,7 @@ subtitle: "From Structural Resilience to Vertical System Enablement"
 summary: "It clearly frames the inquiry perspective of the **Telecommunications/ICTs (including new and emerging)** as **enablement of other climate resilient sections**.
 "
 author: "Han-Teng Liao"
-date: "2026-06-15"
+date: "2026-06-08"
 categories: [Research, Climate Action, Sustainable Development]
 tags: 
   - STANDARDS 
