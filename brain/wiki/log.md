@@ -288,3 +288,11 @@ Cleaned 40 polluted sources entries across 40 file(s) (external paths, .md exten
 - [[concepts/second-order-effect]]: no suitable linking targets found
 - [[concepts/financial-effects-assessment]]: no suitable linking targets found
 - [[concepts/modifying-usage]]: no suitable linking targets found
+
+
+## [2026-06-16] ingest | Artificial Intelligence | United Nations - CEB
+
+**Created pages**：[[sources/un-ceb-on-ai.md]], [[entities/united-nations-system-chief-executives-board-for-coordination.md]], [[entities/high-level-committee-on-programmes.md]], [[entities/inter-agency-working-group-on-ai.md]], [[entities/antónio-guterres.md]], [[entities/unesco.md]], [[entities/high-level-committee-on-management.md]], [[entities/international-telecommunication-union.md]], [[entities/secretary-generals-high-level-advisory-body-on-ai.md]], [[entities/ad-hoc-expert-group.md]], [[concepts/responsible-ai.md]], [[concepts/ai-governance.md]], [[concepts/responsible-ai.md]], [[concepts/sustainable-development-goals.md]], [[concepts/digital-commons.md]], [[concepts/frontier-issues.md]]
+
+**Updated pages**：[[international-telecommunication-union]], [[sustainable-development-goals]]
+

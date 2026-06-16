@@ -32,3 +32,6 @@ A proof-of-concept configuration for a two-tier knowledge repository.
     _(Enabling the net-zero transition: Assessing how the use of ICT solutions impacts GHG emissions of other sectors)_
     
 
+## To do:
+
+* [Harnessing AI Responsibly: AI Tools Radar for the Public Sector](https://www.unesco.org/en/articles/harnessing-ai-responsibly-ai-tools-radar-public-sector-media-and-judiciary)

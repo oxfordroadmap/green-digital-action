@@ -2,7 +2,7 @@
 title: Artificial Intelligence | United Nations - CEB
 author: UN System Chief Executives Board for Coordination (CEB)
 date: 2025
-bibliography: \references.bib
+bibliography: ../../references.bib
 source: https://unsceb.org/topics/artificial-intelligence
 ---
 

@@ -1,10 +1,11 @@
 ---
 type: concept
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-16
 sources:
   - "[[sources/Statement-GDC-WSC_March-2024]]"
   - "[[sources/itu-t-l-1500-adaptation-framework|ITU-T L.1500 (Adaptation Framework)]]"
+  - "[[brain/raw/UN-CEB-on-AI.md]]"
 tags:
   - "term"
 aliases:
@@ -17,9 +18,6 @@ aliases:
   - "SDGs"
 ---
 
-## Description
-The Sustainable Development Goals serve as a universal framework and global benchmark for measuring progress in international development, cooperation, and digital equity. While they provide a forward-looking blueprint for sustainability, achieving these objectives is increasingly threatened by climate change, which exacerbates poverty and marginalization, particularly in developing nations. Integrating Information and Communication Technologies (ICTs) into adaptation strategies is considered a necessary step to protect development progress and overcome these mounting environmental barriers. The goals are designed to be mutually reinforcing, where digital cooperation and the deployment of international standards act as foundational enablers to accelerate global impact.
-
 ## Related Concepts
 - [[concepts/global-digital-compact|Global Digital Compact]]
 - [[concepts/international-standards|International Standards]]
@@ -27,6 +25,7 @@ The Sustainable Development Goals serve as a universal framework and global benc
 - [[concepts/climate-change|Climate Change]]
 - [[concepts/information-and-communication-technology|Information and Communication Technology]]
 - [[concepts/climate-change-adaptation|Climate Change Adaptation]]
+- [[concepts/ai-governance|AI Governance]]
 
 ## Related Entities
 - None
@@ -38,3 +37,7 @@ The Sustainable Development Goals serve as a universal framework and global benc
 
 > **Source: [[sources/itu-t-l-1500-adaptation-framework|ITU-T L.1500 (Adaptation Framework)]]**
 > - "For them, climate change impacts aggravate the challenges faced in the achievement of the Millennium Development Goals (MDGs), and pose further barriers to overcoming poverty and marginalization."
+
+> **Source: [[sources/un-ceb-on-ai|UN-CEB-on-AI]]**
+> - "Artificial intelligence (AI) and other frontier technologies hold significant potential for supporting inclusivity, reducing inequalities, rescuing the Sustainable Development Goals (SDGs) and bolstering the operations of the United Nations (UN) system."
+> - "The joint session agreed that the United Nations Charter, international human rights laws, the 2030 Agenda for Sustainable Development and other normative multilateral instruments offered a values-based foundation for the governance of AI."

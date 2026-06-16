@@ -6,6 +6,14 @@
 
 ## Entities
 
+- [[entities/ad-hoc-expert-group|ad-hoc-expert-group]] `aliases: UNESCO Ad Hoc Expert Group, AHEG` - type: entity
+- [[entities/secretary-generals-high-level-advisory-body-on-ai|secretary-generals-high-level-advisory-body-on-ai]] `aliases: AI Advisory Body, Secretary-General's AI Advisory Body` - type: entity
+- [[entities/high-level-committee-on-management|high-level-committee-on-management]] `aliases: HLCM, High-Level Committee on Management` - type: entity
+- [[entities/unesco|unesco]] `aliases: United Nations Educational, Scientific and Cultural Organization, UN Educational` - type: entity
+- [[entities/antónio-guterres|antónio-guterres]] `aliases: António Manuel de Oliveira Guterres, UN Secretary-General` - type: entity
+- [[entities/inter-agency-working-group-on-ai|inter-agency-working-group-on-ai]] `aliases: IAWG-AI, Inter-agency Working Group on Artificial Intelligence` - type: entity
+- [[entities/high-level-committee-on-programmes|high-level-committee-on-programmes]] `aliases: HLCP, High-level Committee on Programmes of the CEB` - type: entity
+- [[entities/united-nations-system-chief-executives-board-for-coordination|united-nations-system-chief-executives-board-for-coordination]] `aliases: CEB, UN System Chief Executives Board for Coordination` - type: entity
 - [[entities/wageningen-university-and-research|wageningen-university-and-research]] `aliases: Wageningen University & Research, WUR` - type: entity
 - [[entities/centre-for-world-food-studies|centre-for-world-food-studies]] `aliases: Centre for World Food Studies, SOW-VU` - type: entity
 - [[entities/centre-for-development-informatics|centre-for-development-informatics]] `aliases: CDI, University of Manchester Centre for Development Informatics` - type: entity
@@ -37,6 +45,9 @@
 
 ## Concepts
 
+- [[concepts/frontier-issues|frontier-issues]] `aliases: Frontier technologies` - type: concept
+- [[concepts/digital-commons|digital-commons]] `aliases: Digital commons, Shared digital resources` - type: concept
+- [[concepts/ai-governance|ai-governance]] `aliases: Global AI governance` - type: concept
 - [[concepts/carbon-footprint|carbon-footprint]] `aliases: CO2 footprint, carbon emissions` - type: concept
 - [[concepts/carbon-budget|carbon-budget]] `aliases: Carbon Quota, CO2 Budget` - type: concept
 - [[concepts/higher-order-effects|higher-order-effects]] - (empty)
@@ -83,12 +94,13 @@
 - [[concepts/sustainable-development-goals|sustainable-development-goals]] `aliases: SDGs, Sustainable Development, SDGs, Millennium Development Goal, SDGs, Sustainable Development, SDGs` - type: concept
 - [[concepts/data-governance|data-governance]] `aliases: Data Management` - type: concept
 - [[concepts/interoperability|interoperability]] `aliases: System Interoperability, Tech Interoperability` - type: concept
-- [[concepts/responsible-ai|responsible-ai]] `aliases: RAI` - type: concept
+- [[concepts/responsible-ai|responsible-ai]] `aliases: RAI, Artificial Intelligence, RAI, Ethics of Artificial Intelligence, RAI, Artificial Intelligence, RAI` - type: concept
 - [[concepts/international-standards|international-standards]] `aliases: Standards, Global Standards` - type: concept
 - [[concepts/global-digital-compact|global-digital-compact]] `aliases: GDC, UN Global Digital Compact` - type: concept
 
 ## Sources
 
+- [[sources/un-ceb-on-ai|un-ceb-on-ai]] `aliases: UN CEB AI Policy Overview, CEB Artificial Intelligence Strategy`
 - [[sources/itu-t-l-1500-adaptation-framework|itu-t-l-1500-adaptation-framework]] `aliases: ITU-T L.1500, Framework for adaptation to climate change for the ICT sector`
 - [[sources/itu-t-l-1501-adaptation-best-practices|itu-t-l-1501-adaptation-best-practices]] `aliases: ITU-T L.1501, Best practices for how ICTs can help countries adapt to the effects of climate change`
 - [[sources/itu-t-l-1470-greening-digital|itu-t-l-1470-greening-digital]] `aliases: ITU-T L.1470, ICT Sector GHG Trajectories Standard`

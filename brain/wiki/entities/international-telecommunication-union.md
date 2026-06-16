@@ -1,7 +1,7 @@
 ---
 type: entity
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-16
 sources:
   - "[[sources/Statement-GDC-WSC_March-2024]]"
   - "[[sources/News-ITU-COP30_GDA-Hub-2025]]"
@@ -9,6 +9,7 @@ sources:
   - "[[sources/itu-t-l-1470-greening-digital|ITU-T L.1470 (Greening Digital)]]"
   - "[[sources/itu-t-l-1501-adaptation-best-practices|ITU-T L.1501 (Adaptation Best Practices)]]"
   - "[[sources/itu-t-l-1500-adaptation-framework|ITU-T L.1500 (Adaptation Framework)]]"
+  - "[[brain/raw/UN-CEB-on-AI.md]]"
 tags:
   - "organization"
 aliases:
@@ -21,7 +22,6 @@ aliases:
 
 ## Related Entities
 - [[entities/world-standards-cooperation|World Standards Cooperation]]
-- [[entities/international-organization-for-standardization|international-organization-for-standardization]]
 - [[entities/international-organization-for-standardization|International Organization for Standardization]]
 - [[entities/world-summit-on-the-information-society|World Summit on the Information Society]]
 - [[entities/european-green-digital-coalition|Green Digital Action Hub]]
@@ -30,6 +30,8 @@ aliases:
 - [[entities/gsma|GSMA]]
 - [[entities/coalition-for-digital-environmental-sustainability|Coalition for Digital Environmental Sustainability]]
 - [[entities/itu-t-study-group-5|ITU-T Study Group 5]]
+- [[entities/unesco|UNESCO]]
+- [[entities/inter-agency-working-group-on-ai|Inter-agency Working Group on AI]]
 
 ## Related Concepts
 - [[concepts/international-standards|International Standards]]
@@ -41,6 +43,7 @@ aliases:
 - [[concepts/recommendation-itu-t-l-1480|Recommendation ITU-T L.1480]]
 - [[concepts/itu-t-l-1470|ITU-T L.1470]]
 - [[concepts/climate-change-adaptation|Climate Change Adaptation]]
+- [[concepts/artificial-intelligence|Artificial Intelligence]]
 
 ## Mentions in Source
 - "The world’s leading developers of international standards – the International Electrotechnical Commission, the International Organization for Standardization, and the International Telecommunication Union – provide a trusted platform for digital cooperation among governments, industry, academia, and civil society." 
@@ -49,3 +52,5 @@ aliases:
 - "The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of telecommunications, information and communication technologies (ICTs)."
 - "The ITU Telecommunication Standardization Sector (ITU-T) is a permanent organ of ITU."
 - "ITU-T is responsible for studying technical, operating and tariff questions and issuing Recommendations on them with a view to standardizing telecommunications on a worldwide basis."
+- "Under HLCP, efforts to enhance UN system policy coherence and programme coordination on AI were thereafter carried out through the Inter-agency Working Group on AI (IAWG-AI)."
+- "Established by HLCP in October 2020, the time-bound working group, co-led by ITU and UNESCO, and comprising nearly 50 entities, coordinated AI-related initiatives across the UN system."
