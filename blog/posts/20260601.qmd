@@ -2,7 +2,7 @@
 title: "Green Digital Action on Integrating Technologies with Standard Innovations"
 subtitle: "Synthesizing consensus-based technical standards with operational climate platforms for a sustainable future."
 author: "Socio-Technical Strategist"
-date: "2026-06-15"
+date: "2026-06-01"
 categories: [Research, Climate Action, Sustainable Development]
 image: "https://ec.europa.eu/newsroom/repository/document/2023-4/Founding_Members_update_202301_HYAfDdNL0GyWbv9fcDJFY3g120_93244.png"
 image-alt: "The European Green Digital Coalition (EGDC) currently has 37 members and 14 supporting partners. It was founded by [26 CEOs of ICT companies](https://digital-strategy.ec.europa.eu/en/news/companies-take-action-support-green-and-digital-transformation-eu) who signed a [Declaration to support the Green and Digital Transformation of the EU](https://ec.europa.eu/information_society/newsroom/image/document/2021-12/european_green_digital_coaliton_declaration_-_final_-digital_day_2021_E592503B-D1CC-A599-5EF97E6891B038DF_74943.pdf) on Digital Day 2021.The Declaration builds on the EU Council conclusions of December 2020 on [Digitalisation for the benefit of the environment](https://www.consilium.europa.eu/en/press/press-releases/2020/12/17/digitalisation-for-the-benefit-of-the-environment-council-approves-conclusions/) and recognises the ICT sector as a key player in the fight against climate change."
